@@ -293,7 +293,7 @@ textarea {
   text-shadow: 2px 2px 8px #222;
 }
 .hero-about {
-  background-image: url(/images/canales.jpg);
+  background-image: url(/assets/images/canales.jpg);
   background-position: center 80%;
   height: 90vh;
 }
@@ -305,7 +305,7 @@ textarea {
   color: #fff;
 }
 .hero-home {
-  background-image: url(/images/cover.jpg);
+  background-image: url(/assets/images/cover.jpg);
   background-position: center center;
   height: 100vh;
 }
@@ -317,7 +317,7 @@ textarea {
   color: #fff;
 }
 .hero-projects, .hero-blog {
-  background-image: url(/images/benitez.jpg);
+  background-image: url(/assets/images/benitez.jpg);
   background-position: center center;
   height: 50vh;
 }

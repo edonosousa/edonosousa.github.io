@@ -1,10 +1,11 @@
 # Site settings
 title: Eduardo Donoso
 email: eduardo@soijen.com
-description: Eduardo Donoso's personal website
+description: Eduardo Donoso - freelance travel writer
 lang: ["en", "es"]
 url: "https://edonoso.com"
-author: Eduardo
+author: Eduardo Donoso
+twitter: edodonoso
 permalink: /:title/
 google_maps_api_key:
 
@@ -36,8 +37,8 @@ t:
       name: "CV"
       url: "/about/"
     projects:
-      name: "Projects"
-      url: "/projects/"
+      name: "Portfolio"
+      url: "/portfolio/"
     blog:
       name: "Blog"
       url: "/blog/"
@@ -52,11 +53,11 @@ t:
         name: "CV"
         url: "/es/about/"
       projects:
-        name: "Proyectos"
-        url: "/es/projects/"
+        name: "Portafolio"
+        url: "/es/portfolio/"
       blog:
         name: "Blog"
         url: "/es/blog/"
       contact:
         name: "Contacto"
-        url: "/#contact"
+        url: "/es/#contact"
