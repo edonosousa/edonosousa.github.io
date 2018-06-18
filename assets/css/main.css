@@ -713,18 +713,21 @@ textarea {
   .full-hero, .page {
       padding: 8vh 5vh;
   }
+  .full-hero {
+    line-height: 2;
+  }
+  .full-hero h1 {
+    font-size: 2.5em;
+  }
   .line {
     visibility: hidden;
   }
   .line:after {
     content: '\A';
     white-space: pre;
-}
+  }
 }
 @media (max-width: 350px) {
-  .full-hero h1 {
-    font-size: 3em;
-  }
   .skill-col {
     width: auto;
   }
