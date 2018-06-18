@@ -1,0 +1,22 @@
+<head>
+  {% if page.title %}
+    <title>{{ page.title }}</title>
+  {% else %}
+    <title>{{ site.title }}</title>
+  {% endif %}
+  {% if page.description %}
+    <meta name="description" content="{{ page.description }}">
+  {% else %}
+    <meta name="description" content="{{ site.description }}">
+  {% endif %}
+  <link href="/images/favicon.ico" rel="icon">
+  <link href="/images/favicon.ico" rel="apple-touch-icon">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet"
+        href="/fonts/font-awesome-4.7.0/css/font-awesome.css">
+  <link rel="stylesheet" href="/css/main.css?v=1.0">
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+  <!-- External Integrations -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans|Raleway:100" rel="stylesheet">
+</head>

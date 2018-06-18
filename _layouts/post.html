@@ -1,0 +1,70 @@
+---
+layout: default
+---
+
+<div class="post">
+  <div class="full-hero hero-posts" style="background-image:url({{ page.postHero }})"></div>
+  <article class="page">
+    <header class="post-header">
+      <h1>{{ page.title }}</h2>
+      <div class="post-byline">
+        {% if page.lang == 'en' %}
+        by
+        {% endif %}
+        {% if page.lang == 'es' %}
+        por
+        {% endif %}
+         {{ page.author }}
+        <span> | {% include date.html date=page.date %} {{ day }} {{ month }} {{ year }}</span>
+      </div>
+      {% include share-bar.html %}
+    </header>
+    {% include recent-posts.html %}
+    <div class="post-content">
+      {{ content }}
+    </div>
+
+    <div class="post-nav">
+    {% for post in site.posts %}
+      {% if post.lang == page.lang %}
+        {% if prev %}
+          <i class="fa fa-arrow-left" aria-hidden="true"></i>
+          <a href="{{ post.url }}">
+            {% if page.lang == 'en' %}
+            previous
+            {% endif %}
+            {% if page.lang == 'es' %}
+            anterior
+            {% endif %}
+          </a>
+        {% endif %}
+        {% assign prev = false %}
+        {% if post.id == page.id %}
+          {% assign prev = true %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+    |
+    {% for post in site.posts reversed %}
+      {% if post.lang == page.lang %}
+        {% if next %}
+          <a href="{{ post.url }}">
+            {% if page.lang == 'en' %}
+            next
+            {% endif %}
+            {% if page.lang == 'es' %}
+            siguente
+            {% endif %}
+          </a>
+          <i class="fa fa-arrow-right" aria-hidden="true"></i>
+          {% break %}
+        {% endif %}
+        {% assign next = false %}
+        {% if post.id == page.id %}
+          {% assign next = true %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+    </div>
+  </article>
+</div>

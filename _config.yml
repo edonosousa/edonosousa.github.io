@@ -1,0 +1,62 @@
+# Site settings
+title: Eduardo Donoso
+email: eduardo@soijen.com
+description: Eduardo Donoso's personal website
+lang: ["en", "es"]
+url: "http://edonoso.com"
+author: Eduardo
+permalink: /:title/
+google_maps_api_key:
+
+# Build settings
+include: ["_pages"]
+
+defaults:
+  #languages
+  -
+    scope:
+      path: "en"
+    values:
+      lang: "en"
+      baseurl: ""
+  -
+    scope:
+      path: "es"
+    values:
+      lang: "es"
+      baseurl: "/es/"
+
+#menu translations
+t:
+  en:
+    home:
+      name: "Home"
+      url: "/"
+    about:
+      name: "CV"
+      url: "/about/"
+    projects:
+      name: "Projects"
+      url: "/projects/"
+    blog:
+      name: "Blog"
+      url: "/blog/"
+    contact:
+      name: "Contact"
+      url: "/#contact"
+  es:
+      home:
+        name: "Inicio"
+        url: "/es/"
+      about:
+        name: "CV"
+        url: "/es/about/"
+      projects:
+        name: "Proyectos"
+        url: "/es/projects/"
+      blog:
+        name: "Blog"
+        url: "/es/blog/"
+      contact:
+        name: "Contacto"
+        url: "/#contact"

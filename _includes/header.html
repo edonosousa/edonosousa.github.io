@@ -1,0 +1,15 @@
+<header class="header">
+  <!--<a href="/" class="header-logo">
+    <img src="/images/logo-crop.png" alt="Soijen Logo">
+  </a>-->
+  <nav>
+    <input type="checkbox" id="mobile-menu" class="mobile-menu-check">
+    <label for="mobile-menu" class="show-mobile-menu"><i class="fa fa-bars"></i></label>
+    <ul class="header-nav">
+      {% for menu in site.t[page.lang] %}
+        <li><a href="{{ menu[1].url }}">{{ menu[1].name }}</a></li>
+      {% endfor %}
+      <li><span class="langselect">{% include langselect.html %}</span></li>
+    </ul>
+  </nav>
+</header>

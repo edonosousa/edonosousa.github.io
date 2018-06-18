@@ -1,0 +1,28 @@
+---
+title: Eduardo Donoso | Blog
+description: Blog
+layout: default
+permalink: /blog/
+ref: blog
+---
+<div class="page">
+  <h1>Blog</h1>
+  <p>Coming soon</p>
+  <div class="blog-previews">
+    {% assign posts=site.posts | where:"lang", page.lang %}
+    {% for post in posts %}
+    <div class="blog-posts">
+      <a href="{{ post.url }}"><div class="posts-image" style="background-image:url({{ post.postHero }})"></div></a>
+      <header class="post-header">
+        <h2>{{ post.title }}</h2>
+        <div class="post-byline">
+          by {{ post.author }}
+          <span> | {% include date.html date=post.date %} {{ day }} {{ month }} {{ year }}</span>
+        </div>
+      </header>
+      {{ post.excerpt }}
+      <a href="{{ post.url }}">Read more...</a>
+    </div>
+  {% endfor %}
+  </div>
+</div>
