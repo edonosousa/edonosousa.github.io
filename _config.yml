@@ -36,7 +36,7 @@ t:
     about:
       name: "CV"
       url: "/about/"
-    projects:
+    portfolio:
       name: "Portfolio"
       url: "/portfolio/"
     blog:
@@ -52,7 +52,7 @@ t:
       about:
         name: "CV"
         url: "/es/about/"
-      projects:
+      portfolio:
         name: "Portafolio"
         url: "/es/portfolio/"
       blog:
