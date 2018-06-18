@@ -713,10 +713,10 @@ textarea {
   .full-hero, .page {
       padding: 8vh 5vh;
   }
-  .full-hero {
+  .full-hero .hero-home {
     line-height: 2;
   }
-  .full-hero h1 {
+  .full-hero < h1 {
     font-size: 2.5em;
   }
   .line {
