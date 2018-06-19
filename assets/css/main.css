@@ -68,11 +68,11 @@ h1,h2,h3,h4,h5,h6 {
   padding-bottom: 0.5em;
 }
 h1 {
-  letter-spacing: 0.2em;
+  letter-spacing: 0.1em;
   margin-bottom: 1rem;
 }
 h2 {
-  letter-spacing: 0.2em;
+  letter-spacing: 0.1em;
 }
 p {
   color: #222;
@@ -705,6 +705,9 @@ textarea {
    .hero-about {
      background-position: right 80%;
    }
+   .hero-home {
+     background-position: 20% center;
+   }
  }
 @media (max-width: 500px) {
   .star-col {
@@ -716,8 +719,10 @@ textarea {
   .full-hero .hero-home {
     line-height: 2;
   }
-  .full-hero < h1 {
-    font-size: 2.5em;
+  .full-hero h1 {
+    font-size: 3em;
+    margin-bottom: 2.8rem;
+    padding-top: 5vh;
   }
   .line {
     visibility: hidden;
