@@ -7,7 +7,6 @@ url: "https://edonoso.com"
 author: Eduardo Donoso
 twitter_username: edodonoso
 permalink: /:title/
-google_maps_api_key:
 
 # Build settings
 include: ["_pages"]

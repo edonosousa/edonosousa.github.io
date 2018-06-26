@@ -456,10 +456,11 @@ textarea {
 .google-map {
   background-position: center;
   text-align: center;
-  height:50vh;;
+  height: 50vh;
 }
 .hero-posts {
   background-position: center center;
+  height: 85vh;
 }
 .post {
   width: 100%;
@@ -707,6 +708,9 @@ textarea {
    }
    .hero-home {
      background-position: 20% center;
+   }
+   .hero-posts {
+    height: 45vh;
    }
  }
 @media (max-width: 500px) {
