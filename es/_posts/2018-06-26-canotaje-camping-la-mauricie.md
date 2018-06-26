@@ -51,8 +51,8 @@ Nuestro sitio de camping estaba dividido en dos áreas junto a un baño rústico
 </figure>
 <figure class="figure">
   <img class="image" src="/assets/images/la-mauricie-canoe-camping/4.jpg"
-      alt="Un descanso con café en la mitad de Lac Dauphinas">
-     <figcaption class="img-caption">Un descanso con café en la mitad de Lac Dauphinas</figcaption>
+      alt="Un descanso con café en la mitad de Lac Dauphinais">
+     <figcaption class="img-caption">Un descanso con café en la mitad de Lac Dauphinais</figcaption>
 </figure>
 <figure class="figure">
   <img class="image" src="/assets/images/la-mauricie-canoe-camping/5.jpg"

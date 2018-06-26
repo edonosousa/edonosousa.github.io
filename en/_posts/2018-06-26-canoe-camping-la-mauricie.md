@@ -48,8 +48,8 @@ At our campsite, we found two designated areas separately with a toilet in betwe
 </figure>
 <figure class="figure">
   <img class="image" src="/assets/images/la-mauricie-canoe-camping/4.jpg"
-      alt="Impromptu coffee break in the middle of Lac Dauphinas">
-     <figcaption class="img-caption">Impromptu coffee break in the middle of Lac Dauphinas</figcaption>
+      alt="Impromptu coffee break in the middle of Lac Dauphinais">
+     <figcaption class="img-caption">Impromptu coffee break in the middle of Lac Dauphinais</figcaption>
 </figure>
 <figure class="figure">
   <img class="image" src="/assets/images/la-mauricie-canoe-camping/5.jpg"
