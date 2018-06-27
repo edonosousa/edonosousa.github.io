@@ -30,7 +30,7 @@ defaults:
 prose:
   rooturl: ''
   siteurl: 'https://edonoso.com'
-  media: '/assets/images/'
+  media: '/assets/images'
   ignore:
     - _config.yml
     - /_layouts
@@ -51,27 +51,32 @@ prose:
           value: "Eduardo Donoso"
       - name: "title"
         field:
-          label: "title"
+          label: "Title"
           element: "text"
           placeholder: "Add post title here"
       - name: "description"
         field:
-          label: "description"
+          label: "Description"
           element: "text"
           placeholder: "Add post description here"
+      - name: "date"
+        field:
+          label: "date"
+          element: "text"
+          value: "CURRENT_DATETIME"
       - name: "postHero"
         field:
-          label: "postHero"
+          label: "PostHero Link"
           element: "text"
           placeholder: "/assets/images/myphoto.jpg"
       - name: "permalink"
         field:
-          label: "permalink"
+          label: "Permalink"
           element: "text"
           placeholder: "/la-mauricie-canoe-camping/"
       - name: "ref"
         field:
-          label: "ref"
+          label: "Language Ref"
           element: "text"
           placeholder: "la-mauricie-canoe-camping"
       - name: "categories"
