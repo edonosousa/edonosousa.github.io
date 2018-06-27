@@ -19,51 +19,37 @@ Durante 10 años estuve trabajando en la Armada de mi país Chile, en el área d
 
 Como voluntario tuve mi primera experiencia sobre cómo administrar un Mercado Agrícola. A primera vista ví muchos vendedores con sus productos, camiones grandes estacionados y clientes (caseros). Nada de diferente a lo que ví en las ferias de mi país. Pero con el pasar de los minutos de mi entrenamiento como voluntario, la administradora del mercado me explicó las cosas que no había visto en esta imagen.
 
-<figure class="figure">
-  <img class="image" src="/assets/images/nyc-greenmarket/sunrise-market.jpg"
-      alt="Preparando todo para una nueva jornada">
-     <figcaption class="img-caption">Preparando todo para una nueva jornada</figcaption>
-</figure>
-<figure class="figure">
-  <img class="image" src="/assets/images/nyc-greenmarket/edu-choclo.jpg"
-      alt="Uno de los disfraces más saludables para Hallowen">
-     <figcaption class="img-caption">Uno de los disfraces más saludables para Hallowen</figcaption>
-</figure>
-<figure class="figure">
-  <img class="image" src="/assets/images/nyc-greenmarket/greenmarket-cover.jpg"
-      alt="Mercado agrícola de la calle 175 con Broadway en Manhattan">
-     <figcaption class="img-caption">Mercado agrícola de la calle 175 con Broadway en Manhattan</figcaption>
-</figure>
-<figure class="figure">
-  <img class="image" src="/assets/images/nyc-greenmarket/edu-dias-nacionales.jpg"
-      alt="Celebrando fiestas patrias">
-     <figcaption class="img-caption">Celebrando fiestas patrias</figcaption>
-</figure>
-<figure class="figure">
-  <img class="image" src="/assets/images/nyc-greenmarket/queens-market.jpg"
-      alt="Mercado Agrícola de Corona en Queens">
-     <figcaption class="img-caption">Mercado Agrícola de Corona en Queens</figcaption>
-</figure>
-<figure class="figure">
-  <img class="image" src="/assets/images/nyc-greenmarket/edu-poster.jpg"
-      alt="Es la hora de las clases">
-     <figcaption class="img-caption">Es la hora de las clases</figcaption>
-</figure>
-<figure class="figure">
-  <img class="image" src="/assets/images/nyc-greenmarket/happy-farmers-market.jpg"
-      alt="Mercado Agrícola Dag Hammarskjold Plaza en Manhattan">
-     <figcaption class="img-caption">Mercado Agrícola Dag Hammarskjold Plaza en Manhattan</figcaption>
-</figure>
-<figure class="figure">
-  <img class="image" src="/assets/images/nyc-greenmarket/edu-teaching.jpg"
-      alt="Explicando a la comunidad, sobre GrowNYC">
-     <figcaption class="img-caption">Explicando a la comunidad, sobre GrowNYC</figcaption>
-</figure>
-<figure class="figure">
-  <img class="image" src="/assets/images/nyc-greenmarket/cooking-demo.jpg"
-      alt="La famosa degustación de comidas">
-     <figcaption class="img-caption">La famosa degustación de comidas</figcaption>
-</figure>
+<img src="/assets/images/nyc-greenmarket/sunrise-market.jpg"
+alt="Preparando todo para una nueva jornada">
+<div class="caption">Preparando todo para una nueva jornada</div>
+
+<img src="/assets/images/nyc-greenmarket/edu-choclo.jpg"
+alt="Uno de los disfraces más saludables para Hallowen">
+<div class="caption">Uno de los disfraces más saludables para Hallowen</div>
+
+<img src="/assets/images/nyc-greenmarket/greenmarket-cover.jpg" alt="Mercado agrícola de la calle 175 con Broadway en Manhattan">
+<div class="caption">Mercado agrícola de la calle 175 con Broadway en Manhattan</div>
+
+<img src="/assets/images/nyc-greenmarket/edu-dias-nacionales.jpg" alt="Celebrando fiestas patrias">
+<div class="caption">Celebrando fiestas patrias</div>
+
+<img src="/assets/images/nyc-greenmarket/queens-market.jpg"
+alt="Mercado Agrícola de Corona en Queens">
+<div class="caption">Mercado Agrícola de Corona en Queens</div>
+
+<img src="/assets/images/nyc-greenmarket/edu-poster.jpg"
+alt="Es la hora de las clases">
+<div class="caption">Es la hora de las clases</div>
+
+<img src="/assets/images/nyc-greenmarket/happy-farmers-market.jpg" alt="Mercado Agrícola Dag Hammarskjold Plaza en Manhattan">
+<div class="caption">Mercado Agrícola Dag Hammarskjold Plaza en Manhattan</div>
+
+<img src="/assets/images/nyc-greenmarket/edu-teaching.jpg" alt="Explicando a la comunidad, sobre GrowNYC">
+<div class="caption">Explicando a la comunidad, sobre GrowNYC</div>
+
+<img src="/assets/images/nyc-greenmarket/cooking-demo.jpg"
+alt="La famosa degustación de comidas">
+<div class="caption">La famosa degustación de comidas</div>
 
 Todos los granjeros vienen de no más lejos que 3 horas de este lugar para vender solo productos locales, frescos y de temporada. Entonces ¿Él vendedor de manzanas es el granjero?  Pregunté y antes de obtener una respuesta, ese mismo agricultor me estaba dando una clase gratis sobre el ciclo de las manzanas que ellos recolectaron el día anterior.
 
@@ -85,4 +71,5 @@ Mucho he aprendido durante estas dos temporadas en el programa Greenmarket, cada
 
 Llega el final de la jornada en el mercado agrícola de la calle 175 con al avenida Broadway. Los agricultores cargan sus camiones y esperan mi señal para salir de la plaza. Ya no queda nadie en el lugar. Mañana otra comunidad despertará con los colores y aromas que la comida fresca y local ofrece.
 
-> *Mientras más conocimiento tenga la gente sobre la manera en que su comida es producida, más probable será que sus valores y no el valor influirán en las decisiones de su compras. (The more knowledge people have about the way their food is produced, the more likely it is that their values–and not just “value”–will inform their purchasing decisions.)* - Michael Pollan, [No bar code](http://michaelpollan.com/articles-archive/no-bar-code/ "No Bar Code")
+<div class="quote">Mientras más conocimiento tenga la gente sobre la manera en que su comida es producida, más probable será que sus valores y no el valor influirán en las decisiones de su compras. (The more knowledge people have about the way their food is produced, the more likely it is that their values–and not just “value”–will inform their purchasing decisions.)</div>
+<div class="caption"> -Michael Pollan, <a href="http://michaelpollan.com/articles-archive/no-bar-code/" title="No Bar Code" target="_blank">No Bar Code</a>

@@ -6,7 +6,12 @@ lang: ["en", "es"]
 url: "https://edonoso.com"
 author: Eduardo Donoso
 twitter_username: edodonoso
+facebook_username: eduardodonoso31
+instagram_username: edopatagonia
+linkedin_username: eduardo-donoso-21aa29111
 permalink: /:title/
+google_analytics_key: UA-121436811-1
+google_site_verification: 6xkhDJkFA_4txjLgKTqfBaguxFnWLw4Her7_zB8CIuw
 
 # Build settings
 include: ["_pages"]
@@ -26,7 +31,7 @@ defaults:
       lang: "es"
       baseurl: "/es/"
 
-#prose settings
+#prose.io settings
 prose:
   rooturl: ''
   siteurl: 'https://edonoso.com'

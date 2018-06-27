@@ -29,51 +29,36 @@ Greenmarket’s mission is to promote regional agriculture and ensure that all N
 
 It has been two years since I became a Market Manager at Greenmarket. The beginning was challenging. I still remember my first day at the 175th St. Greenmarket (uptown Manhattan). This market is one of the oldest (over 30 years old!) and is located right in the heart of Washington Heights. Just as my first day started, I was exposed to all the situations that are never supposed to happen. Calling 911 for a customer that had fainted; a filming shoot, parking proceedings by NYPD to name a few. At least the floor wasn’t moving like when I was at sea! But, I was not alone. Behind every Market Manager is a family of four Regional Coordinators, friendly staff, and volunteers ready to help and support you. Also, the majority of the team started just like you as a volunteer or Market Manager.
 
-<figure class="figure">
-  <img class="image" src="/assets/images/nyc-greenmarket/sunrise-market.jpg"
+
+<img src="/assets/images/nyc-greenmarket/sunrise-market.jpg"
       alt="Preparing for a new day at the farmers market">
-     <figcaption class="img-caption">Preparing for a new day at the farmers market</figcaption>
-</figure>
-<figure class="figure">
-  <img class="image" src="/assets/images/nyc-greenmarket/edu-choclo.jpg"
+<div class="caption">Preparing for a new day at the farmers market</div>
+
+<img src="/assets/images/nyc-greenmarket/edu-choclo.jpg"
       alt="One of the healthiest costumes for Halloween">
-     <figcaption class="img-caption">One of the healthiest costumes for Halloween</figcaption>
-</figure>
-<figure class="figure">
-  <img class="image" src="/assets/images/nyc-greenmarket/greenmarket-cover.jpg"
-      alt="Farmers Market on 175th with Broadway in Manhattan">
-     <figcaption class="img-caption">Farmers Market on 175th with Broadway in Manhattan</figcaption>
-</figure>
-<figure class="figure">
-  <img class="image" src="/assets/images/nyc-greenmarket/edu-dias-nacionales.jpg"
-      alt="Celebrating Chilean National Day">
-     <figcaption class="img-caption">Celebrating Chilean National Day</figcaption>
-</figure>
-<figure class="figure">
-  <img class="image" src="/assets/images/nyc-greenmarket/queens-market.jpg"
-      alt="Corona Farmers Market in Queens">
-     <figcaption class="img-caption">Corona Farmers Market in Queens</figcaption>
-</figure>
-<figure class="figure">
-  <img class="image" src="/assets/images/nyc-greenmarket/edu-poster.jpg"
-      alt="It's class time">
-     <figcaption class="img-caption">It's class time</figcaption>
-</figure>
-<figure class="figure">
-  <img class="image" src="/assets/images/nyc-greenmarket/happy-farmers-market.jpg"
-      alt="Dag Hammarskjold Plaza Farmers Market in Manhattan">
-     <figcaption class="img-caption">Dag Hammarskjold Plaza Farmers Market in Manhattan</figcaption>
-</figure>
-<figure class="figure">
-  <img class="image" src="/assets/images/nyc-greenmarket/edu-teaching.jpg"
-      alt="Explaining to the community about GrowNYC">
-     <figcaption class="img-caption">Explaining to the community about GrowNYC</figcaption>
-</figure>
-<figure class="figure">
-  <img class="image" src="/assets/images/nyc-greenmarket/cooking-demo.jpg"
-      alt="The famous cooking demos">
-     <figcaption class="img-caption">The famous cooking demos</figcaption>
-</figure>
+<div class="caption">One of the healthiest costumes for Halloween</div>
+
+<img src="/assets/images/nyc-greenmarket/greenmarket-cover.jpg" alt="Farmers Market on 175th with Broadway in Manhattan">
+<div class="caption">Farmers Market on 175th with Broadway in Manhattan</div>
+
+<img src="/assets/images/nyc-greenmarket/edu-dias-nacionales.jpg" alt="Celebrating Chilean National Day">
+<div class="caption">Celebrating Chilean National Day</div>
+
+<img src="/assets/images/nyc-greenmarket/queens-market.jpg" alt="Corona Farmers Market in Queens">
+<div class="caption">Corona Farmers Market in Queens</div>
+
+<img src="/assets/images/nyc-greenmarket/edu-poster.jpg" alt="It's class time">
+<div class="caption">It's class time</div>
+
+<img src="/assets/images/nyc-greenmarket/happy-farmers-market.jpg" alt="Dag Hammarskjold Plaza Farmers Market in Manhattan">
+<div class="caption">Dag Hammarskjold Plaza Farmers Market in Manhattan</div>
+
+<img src="/assets/images/nyc-greenmarket/edu-teaching.jpg" alt="Explaining to the community about GrowNYC">
+<div class="caption">Explaining to the community about GrowNYC</div>
+
+<img src="/assets/images/nyc-greenmarket/cooking-demo.jpg"
+alt="The famous cooking demos">
+<div class="caption">The famous cooking demos</div>
 
 Every farmers market is unique because it is immersed in a community with a distinct identity. The biggest challenge is connecting that community with their local farmers, and it is right there where the Market Manager plays a key role. We help coordinate fun activities and information sessions like drawings, face painting, infographics, pictures, costumes, recipes, cooking demonstrations, contests, holiday celebrations, tours for kids and adults, and outreach.
 
@@ -83,4 +68,5 @@ I’ve learned a lot during the last two seasons working at the Greenmarket. Eve
 
 It’s the end of the day here at the 175th St. Greenmarket. The farmers are loading up their trucks and are waiting for my signal to turn out the square. I wait for everybody to leave and look at the now empty space. Tomorrow another community will wake up to the colors and scents that local and fresh food provide.
 
-> *The more knowledge people have about the way their food is produced, the more likely it is that their values–and not just “value”–will inform their purchasing decisions.* - Michael Pollan, [No bar code](http://michaelpollan.com/articles-archive/no-bar-code/ "No Bar Code")
+<div class="quote">The more knowledge people have about the way their food is produced, the more likely it is that their values – and not just “value” – will inform their purchasing decisions.</div>
+<div class="caption">-Michael Pollan, <a href="http://michaelpollan.com/articles-archive/no-bar-code/" title="No bar code" target="_blank">No bar code</a></div>
