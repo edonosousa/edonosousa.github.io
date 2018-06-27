@@ -28,27 +28,27 @@ Trail running or snow running, in this case, was more difficult that we thought.
 The first question was - how high are we running over the real path? Well, you can find a clue in this picture.
 
 <figure class="figure">
-  <img class="image" src="/assets/images/postholing-mont-lac-cygnes/2.JPG"
+  <img class="image" src="/assets/images/postholing-mont-lac-cygnes/2.jpg"
       alt="The view from the campsite on Lac Dauphinais">
      <figcaption class="img-caption">The view from the campsite on Lac Dauphinais</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/assets/images/postholing-mont-lac-cygnes/3.JPG"
+  <img class="image" src="/assets/images/postholing-mont-lac-cygnes/3.jpg"
       alt="The view from the campsite on Lac Dauphinais">
      <figcaption class="img-caption">The view from the campsite on Lac Dauphinais</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/assets/images/postholing-mont-lac-cygnes/4.JPG"
+  <img class="image" src="/assets/images/postholing-mont-lac-cygnes/4.jpg"
       alt="The view from the campsite on Lac Dauphinais">
      <figcaption class="img-caption">The view from the campsite on Lac Dauphinais</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/assets/images/postholing-mont-lac-cygnes/5.JPG"
+  <img class="image" src="/assets/images/postholing-mont-lac-cygnes/5.jpg"
       alt="The view from the campsite on Lac Dauphinais">
      <figcaption class="img-caption">The view from the campsite on Lac Dauphinais</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/assets/images/postholing-mont-lac-cygnes/6.JPG"
+  <img class="image" src="/assets/images/postholing-mont-lac-cygnes/6.jpg"
       alt="The view from the campsite on Lac Dauphinais">
      <figcaption class="img-caption">The view from the campsite on Lac Dauphinais</figcaption>
 </figure>
