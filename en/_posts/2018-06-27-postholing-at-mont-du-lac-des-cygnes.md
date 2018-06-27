@@ -62,8 +62,8 @@ After little change in cloud cover at the summit, we decided it was time to go b
 
 Good to Know:
 <ul class="post-stats bullets">
-  <li>You can get a really nice map of Parc National Des Grands-Jardins [here](https://www.sepaq.com/dotAsset/840e9681-d144-4736-b81a-61b42cceb963.pdf).</li>
-  <li>Information for others activities in the park are [here](https://www.sepaq.com/pq/grj/index.dot?language_id=1).</li>
+  <li>You can get a really nice map of Parc National Des Grands-Jardins <a href="https://www.sepaq.com/dotAsset/840e9681-d144-4736-b81a-61b42cceb963.pdf" target="_blank">here</a>.</li>
+  <li>Information for others activities in the park are <a href="https://www.sepaq.com/dotAsset/840e9681-d144-4736-b81a-61b42cceb963.pdf" target="_blank">here</a>(https://www.sepaq.com/pq/grj/index.dot?language_id=1).</li>
   <li>The length of the trail is 8.78 km round trip. You can add more kilometers if you take the long loop to return to the parking area.</li>
   <li>The price for visiting the park is $8 per person.</li>
 </ul>
