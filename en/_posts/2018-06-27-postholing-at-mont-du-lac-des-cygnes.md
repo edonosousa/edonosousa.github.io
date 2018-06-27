@@ -28,28 +28,33 @@ The first question was - how high are we running over the real path? Well, you c
 
 <figure class="figure">
   <img class="image" src="/assets/images/postholing-mont-lac-cygnes/2.jpg"
-      alt="The view from the campsite on Lac Dauphinais">
-     <figcaption class="img-caption">The view from the campsite on Lac Dauphinais</figcaption>
+      alt="Postholing">
+     <figcaption class="img-caption">Postholing</figcaption>
 </figure>
 <figure class="figure">
   <img class="image" src="/assets/images/postholing-mont-lac-cygnes/3.jpg"
-      alt="The view from the campsite on Lac Dauphinais">
-     <figcaption class="img-caption">The view from the campsite on Lac Dauphinais</figcaption>
+      alt="Finding the trail marker">
+     <figcaption class="img-caption">Finding the trail marker</figcaption>
 </figure>
 <figure class="figure">
   <img class="image" src="/assets/images/postholing-mont-lac-cygnes/4.jpg"
-      alt="The view from the campsite on Lac Dauphinais">
-     <figcaption class="img-caption">The view from the campsite on Lac Dauphinais</figcaption>
+      alt="View at the top">
+     <figcaption class="img-caption">View at the top</figcaption>
 </figure>
 <figure class="figure">
   <img class="image" src="/assets/images/postholing-mont-lac-cygnes/5.jpg"
-      alt="The view from the campsite on Lac Dauphinais">
-     <figcaption class="img-caption">The view from the campsite on Lac Dauphinais</figcaption>
+      alt="1 billion years ago">
+     <figcaption class="img-caption">1 billion years ago</figcaption>
 </figure>
 <figure class="figure">
   <img class="image" src="/assets/images/postholing-mont-lac-cygnes/6.jpg"
-      alt="The view from the campsite on Lac Dauphinais">
-     <figcaption class="img-caption">The view from the campsite on Lac Dauphinais</figcaption>
+      alt="Mont du Lac des Cygnes in the left side">
+     <figcaption class="img-caption">Mont du Lac des Cygnes in the left side</figcaption>
+</figure>
+<figure class="figure">
+  <img class="image" src="/assets/images/postholing-mont-lac-cygnes/7.jpg"
+      alt="Time to enjoy the view in the parking lot, behind us Mont du Lac à Moïse">
+     <figcaption class="img-caption">Time to enjoy the view in the parking lot, behind us Mont du Lac à Moïse</figcaption>
 </figure>
 
 Are we seriously running over 1 meter above the real path, being swallowed by the snow every step and still thinking we are going make it to the summit? ...  The answer was a resounding YES.
