@@ -36,10 +36,11 @@ prose:
     - /_layouts
     - /_includes
     - .gitignore
-    - robots.text
+    - robots.txt
     - sitemap.xml
+    - CNAME
   metadata:
-    _posts:
+    "":
       - name: "layout"
         field:
           element: "hidden"
