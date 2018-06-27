@@ -20,7 +20,7 @@ All throughout the car ride, we couldn't see anything - a thick fog was continua
 
 And then we made it - the Mont du Lac des Cygnes Visitor Center - empty and with the same thick fog and foreboding feeling for what was to come. We had no clue where was the summit, but the snow in the trail was firm making a crunchy sound as we ran. Why should we insist on going to the summit, knowing we won't have a view? And why are the trail markers so close to the ground? We were about to find the answers in the toughest way.
 
-_Forget CrossFit. Forget hot yoga, Soulcycle, Soloflex, and your Body Pump class. There is no better short-duration, full-body workout than postholing._ –Maren Horjus, [The case for Postholing](https://www.backpacker.com/skills/winter-skills-snowshoeing), Backpacker Magazine
+_Forget CrossFit. Forget hot yoga, Soulcycle, Soloflex, and your Body Pump class. There is no better short-duration, full-body workout than postholing._ –Maren Horjus,<a href="https://www.backpacker.com/skills/winter-skills-snowshoeing" target="_blank">The case for Postholing</a> Backpacker Magazine.
 
 Trail running or snow running, in this case, was more difficult that we thought. The crunchy sound of the snow changed to a grumbling sound after our feet were swallowed by the snow as we stepped slightly off the tiny path. We plunged hip deep in the snow around 30 times. We had no idea there was a word for this - 'postholing'. (A great description for this word [here](https://www.thoughtco.com/what-is-postholing-1766135))
 
