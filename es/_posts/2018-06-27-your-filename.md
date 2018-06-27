@@ -3,19 +3,24 @@ author: Eduardo Donoso
 layout: post
 date: '2018-06-27 17:08 -0400'
 published: false
-title: ''
+title: Aprendiendo de una dura forma que es postholing
 ---
-Running in one of the oldest mountain ranges on earth, adding a new word 'postholing' to our vocabulary and making the best of a foggy day at Mont du Lac des Cygnes.
+Corriendo en uno de los más antiguos cordones montañosos del planeta, aprendiendo de esta nueva palabra postholing y tratando de sacar el máximo provecho a nuestro día en Mont du Lac des Cygnes
+ 
+Durante todo el recorrido en auto no pudimos ver nada debido a la espesa neblina que nos hacía preguntar si deberíamos seguir o no. Viajamos desde tan lejos para llegar acá que la decisión de regresar se mantenía siempre en suspenso.
+ 
+Finalmente llegamos al centro de informaciones de Mont du-Lac des Cygnes , estaba completamente vacío, con la misma densa neblina y con un presentimiento de que la cumbre quizás estaría igual. No teníamos idea de donde estaba la cima, pero la nieve en el sendero era firme y con su inconfundible sonido al correr sobre ella.
 
-All throughout the car ride, we couldn't see anything - a thick fog was continually asking us if we want to keep going or return to the city. Having traveled so far we decided to keep postponing the decision...
+¿Por qué insistir con subir un cerro sabiendo que no se va a ver nada desde la cima? Y ¿Por qué las señales del sendero están casi a nivel del suelo? Estábamos a punto de encontrar todas estas respuestas en una manera un poco dura.
 
-And then we made it - the Mont du Lac des Cygnes Visitor Center - empty and with the same thick fog and foreboding feeling for what was to come. We had no clue where was the summit, but the snow in the trail was firm making a crunchy sound as we ran. Why should we insist on going to the summit, knowing we won't have a view? And why are the trail markers so close to the ground? We were about to find the answers in the toughest way.
 
-_Forget CrossFit. Forget hot yoga, Soulcycle, Soloflex, and your Body Pump class. There is no better short-duration, full-body workout than postholing._ –Maren Horjus, <a href="https://www.backpacker.com/skills/winter-skills-snowshoeing" target="_blank">The case for Postholing</a>.
 
-Trail running or snow running, in this case, was more difficult that we thought. The crunchy sound of the snow changed to a grumbling sound after our feet were swallowed by the snow as we stepped slightly off the tiny path. We plunged hip deep in the snow around 30 times. We had no idea there was a word for this - 'postholing'. (A great description for this word <a href="https://www.thoughtco.com/what-is-postholing-1766135" target="_blank">here</a>.)
+_Olvida, crossfit, yoga, soulcycle, soloflex y tus clases de acondicionamiento físico. No existe otra mejor manera de corta duración y que involucre todo tu cuerpo que postholing. [Forget CrossFit. Forget hot yoga, Soulcycle, Soloflex, and your Body Pump class. There is no better short-duration, full-body workout than postholing.Traducido Eduardo Donoso]_ –Maren Horjus, <a href="https://www.backpacker.com/skills/winter-skills-snowshoeing" target="_blank">The case for Postholing</a>. Backpacker Magazine
 
-The first question was - how high are we running over the real path? Well, you can find a clue in this picture.
+Corriendo en los senderos o en este caso corriendo en la nieve fue mucho más difícil de lo que imaginamos. El sonido pasivo al correr por la nieve cambió a quejas y reclamos cada vez que nuestros pies fueron tragados por la nieve cuando nos desviábamos un poco del pequeño sendero.  Nos enterramos con la nieva hasta la cintura en más de 30 oportunidades y no teníamos idea que existe una palabra técnica para esto – postholing. (Una gran descripción de esta palabra en Inglés <a href="https://www.thoughtco.com/what-is-postholing-1766135" target="_blank">aquí</a>.)
+
+La primera pregunta fue ¿Cuál es la altura a la que estamos corriendo sobre el sendero? Una pequeña pista en las siguientes fotografías.
+
 
 <figure class="figure">
   <img class="image" src="/assets/images/postholing-mont-lac-cygnes/2.jpg"
@@ -24,42 +29,54 @@ The first question was - how high are we running over the real path? Well, you c
 </figure>
 <figure class="figure">
   <img class="image" src="/assets/images/postholing-mont-lac-cygnes/3.jpg"
-      alt="Finding the trail marker">
-     <figcaption class="img-caption">Finding the trail marker</figcaption>
+      alt="La difícil tarea de encontrar las señales del sendero">
+     <figcaption class="img-caption">La difícil tarea de encontrar las señales del sendero</figcaption>
 </figure>
 <figure class="figure">
   <img class="image" src="/assets/images/postholing-mont-lac-cygnes/4.jpg"
-      alt="View at the top">
-     <figcaption class="img-caption">View at the top</figcaption>
+      alt="Vista desde la cima
+">
+     <figcaption class="img-caption">Vista desde la cima
+</figcaption>
 </figure>
 <figure class="figure">
   <img class="image" src="/assets/images/postholing-mont-lac-cygnes/5.jpg"
-      alt="1 billion years ago">
-     <figcaption class="img-caption">1 billion years ago</figcaption>
+      alt="1 billón de años atrás
+">
+     <figcaption class="img-caption">1 billón de años atrás
+</figcaption>
 </figure>
 <figure class="figure">
   <img class="image" src="/assets/images/postholing-mont-lac-cygnes/6.jpg"
-      alt="Mont du Lac des Cygnes in the left side">
-     <figcaption class="img-caption">Mont du Lac des Cygnes in the left side</figcaption>
+      alt="Monte du Lac des Cygnes a la izquierda.
+">
+     <figcaption class="img-caption">Monte du Lac des Cygnes a la izquierda.
+</figcaption>
 </figure>
 <figure class="figure">
   <img class="image" src="/assets/images/postholing-mont-lac-cygnes/7.jpg"
-      alt="Time to enjoy the view in the parking lot, behind us Mont du Lac à Moïse">
-     <figcaption class="img-caption">Time to enjoy the view in the parking lot, behind us Mont du Lac à Moïse</figcaption>
+      alt="Es tiempo de disfrutar la vista desde el estacionamiento, detrás de nosotros el Monte du Lac à Moïse.
+">
+     <figcaption class="img-caption">Es tiempo de disfrutar la vista desde el estacionamiento, detrás de nosotros el Monte du Lac à Moïse.
+</figcaption>
 </figure>
 
-Are we seriously running over 1 meter above the real path, being swallowed by the snow every step and still thinking we are going make it to the summit? ...  The answer was a resounding YES.
-We followed a wooden boardwalk near the summit with some flat rocky surfaces as well. We arrived at the top of Mont du Lac des Cygnes, with a nice and incredible... thick fog that allowed us to see nothing.
+Estábamos realmente corriendo sobre 1 metro de altura y a la vez siendo tragados por la nieve en cada paso y aún pensábamos que íbamos a lograr llegar a la cima.
 
-Not wanting to give up, we waited 30 minutes at the chilly summit, hoping the strong wind would blow the fog away.  In the meantime, one of the information posts on the summit caught our attention. Mont du Lac des Cygnes, part of the Laurentian Mountains, is only 980 meters high and formed 1 billion years ago (For perspective Mount Everest and Mount Blanc are only 200 million years old). After a little more digging we found that the Laurentian Mountains in Canada, are number 10 in the list of [the oldest mountains on earth](https://www.buzzfeed.com/top10s/oldest-mountains-on-earth-ww6q?utm_term=.ic4kJlRrG#.elPgPJBkq). What an amazing experience to be able to walk over one of the oldest mountains in the world. Unfortunately, we weren't able to enjoy the view of the Laurentian range from here but maybe in the summer time, we can try again.
+Después de más nieve, llegamos a una pasarela de madera sobre la cima de la montaña y en donde pudimos saltar a unas grandes y planas superficies de roca. Finalmente estábamos en la cima de Mont du Lac des Cygnes con una increíble vista a… la espesa neblina que no nos dejaba ver nada.
 
-After little change in cloud cover at the summit, we decided it was time to go back down the mountain. We half ran, half potholed down the trail. When we arrived at the parking area, suddenly to our surprise, a clear, sunny and warm day took over the fog and the cold. In front of us, we could see old Mont du Lac des Cygnes. We knew this would happen, and we enjoyed it.
 
-Good to Know:
+No nos queríamos rendir fácilmente así que esperamos durante 30 minutos en el frío de la cima, deseando que el viento que soplaba empujara un poco la neblina hacia otro lado. Mientras tanto uno de los letreros informativo llamó nuestra atención. Mont du Lac des Cygnes es parte del cordón montañoso Laurentian, cuenta con una altura de solo 980 metros y fue formado hace 1 billón de años atrás (tener en cuenta que el Monte Everest y el Monte Blanc tienen 200 millones de años) verificando con más detalles las Montañas Laurentian en Canadá se encuentran en el número 10 de la lista de  <a href="https://www.buzzfeed.com/top10s/oldest-mountains-on-earth-ww6q?utm_term=.ic4kJlRrG#.elPgPJBkq" target="_blank">las montañas más antiguas del planeta</a>. Fue una espectacular experiencia de poder correr en una de las montañas más antiguas de la tierra, lamentablemente no pudimos ver la vista hacia el resto del cordón montañoso pero quizás intentaremos de nuevo en el verano.
+
+
+Después de los 30 minutos, decidimos que era tiempo de regresar. Entre la mitad del tiempo corriendo y la otra en modo postholing logramos descender hasta el centro de visitas. Es tiempo de mirar hacia la cumbre y poner cara de incrédulos al ver que se despejo la cima y todo a nuestro alrededor. Con ustedes el viejo Mont du Lac des Cygnes. La verdad sabíamos que esto iba a suceder pero disfrutamos la travesía.
+
+
+Recomiendo:
 <ul class="post-stats bullets">
-  <li>You can get a really nice map of Parc National Des Grands-Jardins <a href="https://www.sepaq.com/dotAsset/840e9681-d144-4736-b81a-61b42cceb963.pdf" target="_blank">here</a>.</li>
-  <li>Information for others activities in the park are <a href="https://www.sepaq.com/pq/grj/index.dot?language_id=1" target="_blank">here</a>.</li>
-  <li>The length of the trail is 8.78 km round trip. You can add more kilometers if you take the long loop to return to the parking area.</li>
-  <li>The price for visiting the park is $8 per person.</li>
+  <li>Un gran mapa del Parque Nacional Des Grands-Jardins <a href="https://www.sepaq.com/dotAsset/840e9681-d144-4736-b81a-61b42cceb963.pdf" target="_blank">aquí</a>.</li>
+  <li>Otras actividades que puedes realizar en el parque <a href="https://www.sepaq.com/pq/grj/index.dot?language_id=1" target="_blank">aquí</a>.</li>
+  <li>La distancia total del sendero es 8.78 km ida y vuelta. Se pueden agregar más kilómetros si se toma el sendero más largo de regreso.
+</li>
+  <li>El precio para visitar el parque es $8 por persona.</li>
 </ul>
-
