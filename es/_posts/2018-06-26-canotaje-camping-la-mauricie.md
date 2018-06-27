@@ -1,17 +1,22 @@
 ---
-title: Canotaje y Camping en el Parque Nacional de la Mauricie en Québec, Canada
-description: 2 km con la canoa al hombro, lagos espectaculares y algunos invitados bien molestosos ¿Quieres leer más sobre esta aventura en Quebec, Canada?
 author: Eduardo Donoso
 layout: post
+title: 'Canotaje y Camping en el Parque Nacional de la Mauricie en Québec, Canada'
+description: >-
+  2 km con la canoa al hombro, lagos espectaculares y algunos invitados bien
+  molestosos ¿Quieres leer más sobre esta aventura en Quebec, Canada?
 permalink: /es/la-mauricie-canoe-camping/
 postHero: /assets/images/la-mauricie-canoe-camping/1.jpg
 ref: la-mauricie-canoe-camping
-categories: Travels
+categories:
+  - Travels
 tags:
-- quebec
-- canada
-- canoe
-- camping
+  - camping
+  - canoe
+  - canada
+  - quebec
+published: true
+date: '2018-06-27 18:03 -0400'
 ---
 2 kilómetros con la canoa al hombro, lagos espectaculares y tranquilos, soledad junto a unas increíbles postales del amanecer y atardecer ¿Quieres escuchar más sobre esta aventura? Disfruta de esta mezcla de canoa y camping en el Parque Nacional La Mauricie, en la provincia de Quebec, Canadá.
 
@@ -19,6 +24,7 @@ Nuestra primera aventura fue la suma de lo que sabíamos sobre acampar junto a n
 
 ¡Quiero saltar al agua! ¡Ya no puedo resistir más! ¿Por qué hay mosquitos si está lloviendo? Estoy muy seguro que hay muchos de ustedes que han sufrido durante sus aventuras al aire libre, las que después resultan ser las mejores historias para compartir con amigos. Bueno esta aventura, durante el mes de julio en pleno verano en el hemisferio norte, es una de ellas.
 
+<<<<<<< HEAD
 <div class="quote">La Mauricie, es referida como una de los mejores lugares en Canadá para ver el cambio de follaje, especialmente en otoño. (La Mauricie is commonly cited as one of the best places in the country to see stunning foliage, especially in the fall.)</div>
 <div class="caption">-Celina Torrijos, <a href="http://farandwide.much.com/la-mauricie-camping-trip/" title="Far&Wide" target="_blank">Far&Wide</a></div>
 
@@ -32,6 +38,24 @@ El campamento fue en el lago Dauphinais, si ves el <a href="https://www.pc.gc.ca
 - Remo en el lago Giron
 - 1 km de Portage entre lago Giron y lago Dauphinais
 - Remo desde el lado sur del lago Dauphinais a nuestro sitio de camping número 2
+=======
+*La Mauricie, es referida como una de los mejores lugares en Canadá para ver el cambio de follaje, especialmente en otoño. (La Mauricie is commonly cited as one of the best places in the country to see stunning foliage, especially in the fall.)* - Celina Torrijos, <a href="http://farandwide.much.com/la-mauricie-camping-trip" target="_blank">Far&Wide</a>.
+
+
+
+Un viaje de una semana a la provincia de Quebec, fue el destino para ocupar nuestro pase a los Parques Nacionales de Canadá. Elegimos el Parque Nacional de La Mauricie por su soledad junto a campings remotos solo accesibles por canoa o kayak ¿Quién no ha soñado con remar al amanecer en un lago?
+
+El campamento fue en el lago Dauphinais, si ves el <a href="https://www.pc.gc.ca/en/pn-np/qc/mauricie/visit/cartes-maps" target="_blank">mapa de Parks Canada</a> no existe camino para llegar, lo que se hace es una mezcla de remar y caminar con la canoa en los hombros para llegar a destino. _Portage_ es la palabra francesa para referirse a la acción de llevar en los hombros un bote entre dos cuerpos de agua. Nuestra ruta de remo y _portage_ incluyó:
+
+<ul class="post-stats bullets">
+  <li>500 metros de _portage_ desde el estacionamiento al lago Soumire</li>
+  <li>Remo en el lago Soumire</li>
+  <li>500 metros de _portage_ entre lago Soumire y lago Giron</li>
+  <li>Remo en el lago Giron</li>
+  <li>1 km de _Portage_ entre lago Giron y lago Dauphinais</li>
+  <li>Remo desde el lado sur del lago Dauphinais a nuestro sitio de camping número 2</li>
+</ul>
+>>>>>>> b65fa7dd2f8d6c156239b51976fbdf86e95ef251
 
 La canoa al hombro no fue tan mala experiencia como pensábamos, de hecho estábamos felices por haber comprado la canoa más liviana. Pero en nuestro segundo tramo con la canoa al hombro comenzaron nuestros problemas. Una picadura de mosquito fue la alarma, para después casi al llegar al lago Dauphinais, darnos cuenta que éramos esperados por una nube de mosquitos, nuestro único resguardo fue cuando llegamos al centro del lago y una briza los empujó lejos de nosotros. Ahora entendíamos porque las otras personas que vimos estaban cubiertas completa desde los pies a la cabeza.
 
