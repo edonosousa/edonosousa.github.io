@@ -2,8 +2,17 @@
 author: Eduardo Donoso
 layout: post
 date: '2018-06-27 17:08 -0400'
-published: false
+published: true
 title: Aprendiendo de una dura forma que es postholing
+postHero: /assets/images/postholing-mont-lac-cygnes/1.jpg
+permalink: /es/postholing-mont-lac-cygnes/
+ref: postholing-mont-lac-cygnes
+categories:
+  - travels
+tags:
+  - canada
+  - quebec
+  - trail-running
 ---
 Corriendo en uno de los más antiguos cordones montañosos del planeta, aprendiendo de esta nueva palabra postholing y tratando de sacar el máximo provecho a nuestro día en Mont du Lac des Cygnes
  
