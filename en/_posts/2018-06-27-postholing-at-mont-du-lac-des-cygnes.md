@@ -13,7 +13,6 @@ tags:
   - quebec
   - trail-running
 postHero: /assets/images/postholing-mont-lac-cygnes/1.jpg
-description: ''
 ---
 Running in one of the oldest mountain ranges on earth, adding a new word 'postholing' to our vocabulary and making the best of a foggy day at Mont du Lac des Cygnes.
 
