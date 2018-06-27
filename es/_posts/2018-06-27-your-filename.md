@@ -24,7 +24,7 @@ Finalmente llegamos al centro de informaciones de Mont du-Lac des Cygnes, estaba
 
 
 
-_Olvida, crossfit, yoga, soulcycle, soloflex y tus clases de acondicionamiento físico. No existe otra mejor manera de corta duración y que involucre todo tu cuerpo que _postholing_. [Forget CrossFit. Forget hot yoga, Soulcycle, Soloflex, and your Body Pump class. There is no better short-duration, full-body workout than postholing.Traducido Eduardo Donoso]_ –Maren Horjus, <a href="https://www.backpacker.com/skills/winter-skills-snowshoeing" target="_blank">The case for Postholing</a>. Backpacker Magazine
+**_Olvida, crossfit, yoga, soulcycle, soloflex y tus clases de acondicionamiento físico. No existe otra mejor manera de corta duración y que involucre todo tu cuerpo que _postholing_.** [Forget CrossFit. Forget hot yoga, Soulcycle, Soloflex, and your Body Pump class. There is no better short-duration, full-body workout than postholing.Traducido Eduardo Donoso]_ **–Maren Horjus,** <a href="https://www.backpacker.com/skills/winter-skills-snowshoeing" target="_blank">**The case for Postholing**</a>. **Backpacker Magazine**
 
 Corriendo en los senderos o en este caso corriendo en la nieve fue mucho más difícil de lo que imaginamos. El sonido pasivo al correr por la nieve cambió a quejas y reclamos cada vez que nuestros pies fueron tragados por la nieve cuando nos desviábamos un poco del pequeño sendero. Nos enterramos con la nieva hasta la cintura en más de 30 oportunidades y no teníamos idea que existe una palabra técnica para esto _postholing_. (Una gran descripción de esta palabra en Inglés <a href="https://www.thoughtco.com/what-is-postholing-1766135" target="_blank">aquí</a>.)
 
