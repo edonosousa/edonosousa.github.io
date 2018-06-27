@@ -8,7 +8,7 @@ postHero: /assets/images/nyc-greenmarket/happy-farmers-market.jpg
 ref: NYC-Greenmarket
 categories: Sustainability
 tags:
-- New-York
+- new-york
 - local
 ---
 Carrots, radishes, and beets are here. Moments later, apples arrive across the square along the pears. Bread and honey take over the center, while the herbs and plants announce their arrival with their characteristic scents. The farmers finish their last details and we are set to start a new day at one of the 50 farmers markets in New York City.

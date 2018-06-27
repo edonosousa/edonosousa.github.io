@@ -8,10 +8,10 @@ postHero: /assets/images/la-mauricie-canoe-camping/1.jpg
 ref: la-mauricie-canoe-camping
 categories: Travels
 tags:
-- Quebec
-- Canada
-- Canoe
-- Camping
+- quebec
+- canada
+- canoe
+- camping
 ---
 2 kilómetros con la canoa al hombro, lagos espectaculares y tranquilos, soledad junto a unas increíbles postales del amanecer y atardecer ¿Quieres escuchar más sobre esta aventura? Disfruta de esta mezcla de canoa y camping en el Parque Nacional La Mauricie, en la provincia de Quebec, Canadá.
 

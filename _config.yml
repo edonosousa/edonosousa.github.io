@@ -26,6 +26,92 @@ defaults:
       lang: "es"
       baseurl: "/es/"
 
+#prose settings
+prose:
+  rooturl: ''
+  siteurl: 'https://edonoso.com'
+  media: '/assets/images/'
+  ignore:
+    - _config.yml
+    - /_layouts
+    - /_includes
+    - .gitignore
+    - robots.text
+    - sitemap.xml
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "author"
+        field:
+          element: "hidden"
+          value: "Eduardo Donoso"
+      - name: "title"
+        field:
+          label: "title"
+          element: "text"
+          placeholder: "Add post title here"
+      - name: "description"
+        field:
+          label: "description"
+          element: "text"
+          placeholder: "Add post description here"
+      - name: "postHero"
+        field:
+          label: "postHero"
+          element: "path"
+          placeholder: "/assets/images/myphoto.jpg"
+      - name: "permalink"
+        field:
+          element: "text"
+          label: "permalink"
+          placeholder: "/la-mauricie-canoe-camping/"
+      - name: "ref"
+        field:
+          label: "ref"
+          element: "text"
+          placeholder: "la-mauricie-canoe-camping"
+      - name: "categories"
+        field:
+          element: "multiselect"
+          label: "Add Categories"
+          placeholder: "Choose Categories"
+          options:
+            - name: "sustainability"
+              value: "sustainability"
+            - name: "travels"
+              value: "travels"
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Add Tags"
+          placeholder: "Choose Tags"
+          options:
+            - name: "camping"
+            - value: "camping"
+            - name: "canoe"
+            - value: "canoe"
+            - name: "canada"
+            - value: "canada"
+            - name: "quebec"
+            - value: "quebec"
+            - name: "local"
+            - value: "local"
+            - name: "new-york"
+            - value: "new-york"
+            - name: "trail-running"
+            - value: "trail-running"
+            - name: "chile"
+            - value: "chile"
+            - name: "running"
+            - value: "running"
+            - name: "road-trip"
+            - value: "road-trip"
+            - name: "vermont"
+            - value: "vermont"
+
 #menu translations
 t:
   en:

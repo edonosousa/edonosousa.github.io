@@ -8,10 +8,10 @@ postHero: /assets/images/la-mauricie-canoe-camping/1.jpg
 ref: la-mauricie-canoe-camping
 categories: Travels
 tags:
-- Quebec
-- Canada
-- Canoe
-- Camping
+- quebec
+- canada
+- canoe
+- camping
 ---
 2 kilometers of portage, beautiful lakes, calm water, solitude with amazing sunrises and sunsets, do you want to hear more? Come on board Canoe-Camping at La Mauricie National Park, Quebec.
 
