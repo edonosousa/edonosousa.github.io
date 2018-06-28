@@ -84,22 +84,16 @@ prose:
           label: "Language Ref"
           element: "text"
           placeholder: "la-mauricie-canoe-camping"
-      - name: "categories"
-        field:
-          element: "multiselect"
-          label: "Add Categories"
-          placeholder: "Choose Categories"
-          options:
-            - name: "sustainability"
-              value: "sustainability"
-            - name: "travels"
-              value: "travels"
       - name: "tags"
         field:
           element: "multiselect"
           label: "Add Tags"
           placeholder: "Choose Tags"
           options:
+            - name: "sustainability"
+              value: "sustainability"
+            - name: "travels"
+              value: "travels"
             - name: "camping"
               value: "camping"
             - name: "canoe"

@@ -6,12 +6,11 @@ published: true
 title: Postholing at Mont du Lac des Cygnes
 permalink: /postholing-mont-lac-cygnes/
 ref: postholing-mont-lac-cygnes
-categories:
-  - travels
 tags:
   - canada
   - quebec
   - trail-running
+  - travels
 postHero: /assets/images/postholing-mont-lac-cygnes/1.jpg
 ---
 Running in one of the oldest mountain ranges on earth, adding a new word 'postholing' to our vocabulary and making the best of a foggy day at Mont du Lac des Cygnes.

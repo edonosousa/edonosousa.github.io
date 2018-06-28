@@ -6,10 +6,10 @@ layout: post
 permalink: /es/NYC-Greenmarket/
 postHero: /assets/images/nyc-greenmarket/happy-farmers-market.jpg
 ref: NYC-Greenmarket
-categories: Sustainability
 tags:
 - new-york
 - local
+- sustainability
 ---
 Llegaron las zanahorias, los rábanos y betabeles. Unos minutos más tarde las manzanas se ubican en la otra esquina junto a las peras. Pan y miel se toman el centro de la plaza, mientras que las hierbas y plantas anuncian su llegada con su inconfundible aroma. Los agricultores afinan los últimos detalles y estamos listos para una jornada más en uno de los 50 mercados agrícolas de la ciudad de Nueva York.
 

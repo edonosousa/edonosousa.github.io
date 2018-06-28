@@ -6,13 +6,12 @@ description: 2 km con la canoa al hombro, lagos espectaculares y algunos invitad
 permalink: /es/la-mauricie-canoe-camping/
 postHero: /assets/images/la-mauricie-canoe-camping/1.jpg
 ref: la-mauricie-canoe-camping
-categories:
-  - Travels
 tags:
   - camping
   - canoe
   - canada
   - quebec
+  - travels
 published: true
 date: '2018-06-26 18:03 -0400'
 ---

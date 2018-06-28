@@ -7,12 +7,11 @@ title: Aprendiendo el Siginificado de Postholing de una Entretenida Forma
 postHero: /assets/images/postholing-mont-lac-cygnes/1.jpg
 permalink: /es/postholing-mont-lac-cygnes/
 ref: postholing-mont-lac-cygnes
-categories:
-  - travels
 tags:
   - canada
   - quebec
   - trail-running
+  - travels
 ---
 Corriendo en uno de los más antiguos cordones montañosos del planeta, aprendiendo de esta nueva palabra postholing y tratando de sacar el máximo provecho a nuestro día en Mont du Lac des Cygnes.
 

@@ -6,8 +6,8 @@ layout: post
 permalink: /la-mauricie-canoe-camping/
 postHero: /assets/images/la-mauricie-canoe-camping/1.jpg
 ref: la-mauricie-canoe-camping
-categories: Travels
 tags:
+- travels
 - quebec
 - canada
 - canoe
