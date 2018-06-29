@@ -9,12 +9,16 @@ twitter_username: edodonoso
 facebook_username: eduardodonoso31
 instagram_username: edopatagonia
 linkedin_username: eduardo-donoso-21aa29111
-permalink: /:title/
 google_analytics_key: UA-121436811-1
 google_site_verification: 6xkhDJkFA_4txjLgKTqfBaguxFnWLw4Her7_zB8CIuw
+permalink: /:title/
 
 # Build settings
 include: ["_pages"]
+
+collections:
+  portfolio:
+    output: false
 
 defaults:
   #languages

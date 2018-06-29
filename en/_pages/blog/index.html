@@ -21,7 +21,9 @@ ref: blog
         </div>
       </header>
       {{ post.excerpt }}
-      <a href="{{ post.url }}">Read more...</a>
+      <div class="action-button">
+        <a href="{{ post.url }}">Read more...</a>
+      </div>
     </div>
   {% endfor %}
   </div>

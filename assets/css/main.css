@@ -559,6 +559,13 @@ textarea {
   margin-top: 4em;
   text-align: center;
 }
+
+/* PORTFOLIO STYLES */
+.portfolio-item {
+  margin-bottom: 2.5em;
+  padding-bottom: 2.5em;
+}
+
 /* TAG STYLES */
 .tag-posts {
   margin-bottom: 10em;
@@ -734,6 +741,9 @@ textarea {
   }
   .social-list {
     display: block;
+  }
+  .portfolio-image {
+    display: none;
   }
 }
   @media (max-width: 700px)
