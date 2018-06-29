@@ -7,11 +7,14 @@ title: Postholing at Mont du Lac des Cygnes
 permalink: /postholing-mont-lac-cygnes/
 ref: postholing-mont-lac-cygnes
 tags:
+  - travels
   - canada
   - quebec
   - trail-running
-  - travels
 postHero: /assets/images/postholing-mont-lac-cygnes/1.jpg
+description: >-
+  Have you heard about postholing? Finding its meaning in the mountains of
+  Quebec, Canada.
 ---
 Running in one of the oldest mountain ranges on earth, adding a new word 'postholing' to our vocabulary and making the best of a foggy day at Mont du Lac des Cygnes.
 
