@@ -43,10 +43,6 @@ At our campsite, we found two designated areas separately with a toilet in betwe
       alt="Getting water from Lac Dauphinais">
 <div class="caption">Getting water from Lac Dauphinais</div>
 
-<img src="/assets/images/la-mauricie-canoe-camping/4.jpg"
-      alt="Impromptu coffee break in the middle of Lac Dauphinais">
-<div class="caption">Impromptu coffee break in the middle of Lac Dauphinais</div>
-
 <img src="/assets/images/la-mauricie-canoe-camping/5.jpg"
       alt="Another portage complete in La Mauricie">
 <div class="caption">Another portage complete in La Mauricie</div>
