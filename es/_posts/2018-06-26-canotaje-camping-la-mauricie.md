@@ -45,7 +45,7 @@ Nuestro sitio de camping estaba dividido en dos áreas junto a un baño rústico
 <img src="/assets/images/la-mauricie-canoe-camping/3.jpg" alt="Sacando agua para beber en Lac Dauphinais">
 <div class="caption">Sacando agua para beber en Lac Dauphinais</div>
 
-<img src="/assets/images/la-mauricie-canoe-camping/4.jpg" alt="Un descanso con café en la mitad de Lac Dauphinais">
+<img src="/assets/images/la-mauricie-canoe-camping/4.jpg" alt="Un descanso con cafe en la mitad de Lac Dauphinais">
 <div class="caption">Un descanso con café en la mitad de Lac Dauphinais</div>
 
 <img src="/assets/images/la-mauricie-canoe-camping/5.jpg" alt="Otro portage listo en La Mauricie">
