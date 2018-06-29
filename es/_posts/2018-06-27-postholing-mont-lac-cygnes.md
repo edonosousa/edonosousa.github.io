@@ -12,6 +12,9 @@ tags:
   - canada
   - quebec
   - trail-running
+description: >-
+  ¿Has escuchado hablar de postholing? Descubre su significado en las montañas
+  de Quebec, Canadá
 ---
 Corriendo en uno de los más antiguos cordones montañosos del planeta, aprendiendo de esta nueva palabra postholing y tratando de sacar el máximo provecho a nuestro día en Mont du Lac des Cygnes.
 
