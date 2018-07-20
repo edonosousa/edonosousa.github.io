@@ -37,6 +37,9 @@ Dentro de los oficiales se encuentran, el árbol de Maple (cuya hoja es la que s
 
 Conocimos desde la historia, sus provincias, sus símbolos característicos es hora de saber sobre esos lugares que invitan a la aventura. 
 
+
+**Parques Nacionales**
+
 El sistema de Parques Nacionales es impresionante, los cuales incluyen, parques marinos y sitios históricos. Debido a que este viaje lo realizaré en una primera etapa al este de Canadá voy a hablar sobre los parques ubicados en esa zona, que si los comparas con los parques al oeste son pequeños en número y algunos son solo accesibles vía avión. 
 Recomiendo considerar dentro de tus gastos en esta aventura el pase anual llamado <a href="https://www.pc.gc.ca/en/voyage-travel/admission" title="Discovery Pass" target="_blank">Discovery Pass</a> ,el cual te permite visitar los parques y sitios históricos en todo el país. Una de las iniciativas que comenzó Canadá el año 2017 para incentivar el uso de los parques, fue la llamada búsqueda de las sillas rojas, donde sillas rojas fueron posicionadas en lugares estratégicos para que los visitantes las pudieran encontrar y compartir sus fotos.<a href="https://www.pc.gc.ca/en/voyage-travel/chaises-chairs" title="Puedes seguir esta iniciativa aquí" target="_blank">Puedes seguir esta iniciativa aquí</a>
 
@@ -46,6 +49,8 @@ foto parque en quebec
 
 Para trazar el itinerario a las aventuras dentro de este recorrido por la costa este, existen varias rutas dentro de las provincias que te llevaran a varios pueblos y ciudades donde en cada oportunidad vas a ser sorprendido por la comida, su gente, la naturaleza y su historia. 
 Para no contar más detalles es hora de preparar el auto, la carpa, mapas, sacos de dormir, canoa, documentos y comenzar esta aventura por la costa este. 
+
+foto auto
 
 Destinos a seguir:
 •	Quebec
