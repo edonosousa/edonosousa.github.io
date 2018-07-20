@@ -16,7 +16,6 @@ published: true
 date: '2018-07-20 08:55 -0400'
 ---
 Carrots, radishes, and beets are here. Moments later, apples arrive across the square along the pears. Bread and honey take over the center, while the herbs and plants announce their arrival with their characteristic scents. The farmers finish their last details and we are set to start a new day at one of the 50 farmers markets in New York City.
-
 <img src="/assets/images/nyc-greenmarket/sunrise-market.jpg"
       alt="Preparing for a new day at the farmers market">
 <div class="caption">Preparing for a new day at the farmers market</div>
