@@ -2,7 +2,7 @@
 author: Eduardo Donoso
 layout: post
 date: '2018-07-19 17:15 -0400'
-published: false
+published: true
 title: Explorando la costa este de Canadá
 ---
 
