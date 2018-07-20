@@ -2,16 +2,18 @@
 author: Eduardo Donoso
 layout: post
 title: 'Canotaje y Camping en el Parque Nacional de la Mauricie en Québec, Canada'
-description: 2 km con la canoa al hombro, lagos espectaculares y algunos invitados bien molestosos ¿Quieres leer más sobre esta aventura en Quebec, Canada?
+description: >-
+  2 km con la canoa al hombro, lagos espectaculares y algunos invitados bien
+  molestosos ¿Quieres leer más sobre esta aventura en Quebec, Canada?
 permalink: /es/la-mauricie-canoe-camping/
 postHero: /assets/images/la-mauricie-canoe-camping/1.jpg
 ref: la-mauricie-canoe-camping
 tags:
+  - travels
   - camping
   - canoe
   - canada
   - quebec
-  - travels
 published: true
 date: '2018-06-26 18:03 -0400'
 ---
@@ -21,8 +23,9 @@ Nuestra primera aventura fue la suma de lo que sabíamos sobre acampar junto a n
 
 ¡Quiero saltar al agua! ¡Ya no puedo resistir más! ¿Por qué hay mosquitos si está lloviendo? Estoy muy seguro que hay muchos de ustedes que han sufrido durante sus aventuras al aire libre, las que después resultan ser las mejores historias para compartir con amigos. Bueno esta aventura, durante el mes de julio en pleno verano en el hemisferio norte, es una de ellas.
 
-<div class="quote">La Mauricie, es referida como una de los mejores lugares en Canadá para ver el cambio de follaje, especialmente en otoño. (La Mauricie is commonly cited as one of the best places in the country to see stunning foliage, especially in the fall.)</div>
-<div class="caption">-Celina Torrijos, <a href="http://farandwide.much.com/la-mauricie-camping-trip/" title="Far&Wide" target="_blank">Far&Wide</a></div>
+<div class="quote">La Mauricie, es referida como una de los mejores lugares en Canadá para ver el cambio de follaje, especialmente en otoño.</div>
+<div class="caption"> Celina Torrijos, <a href="http://farandwide.much.com/la-mauricie-camping-trip/" title="Far&Wide" target="_blank">Far&Wide</a> (Texto original: La Mauricie is commonly cited as one of the best places in the country to see stunning foliage, especially in the fall.)</div>
+
 
 Un viaje de una semana a la provincia de Quebec, fue el destino para ocupar nuestro pase a los Parques Nacionales de Canadá. Elegimos el Parque Nacional de La Mauricie por su soledad junto a campings remotos solo accesibles por canoa o kayak ¿Quién no ha soñado con remar al amanecer en un lago?
 
