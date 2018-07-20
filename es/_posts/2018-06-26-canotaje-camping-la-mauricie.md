@@ -24,7 +24,7 @@ Nuestra primera aventura fue la suma de lo que sabíamos sobre acampar junto a n
 ¡Quiero saltar al agua! ¡Ya no puedo resistir más! ¿Por qué hay mosquitos si está lloviendo? Estoy muy seguro que hay muchos de ustedes que han sufrido durante sus aventuras al aire libre, las que después resultan ser las mejores historias para compartir con amigos. Bueno esta aventura, durante el mes de julio en pleno verano en el hemisferio norte, es una de ellas.
 
 <div class="quote">La Mauricie, es referida como una de los mejores lugares en Canadá para ver el cambio de follaje, especialmente en otoño.</div>
-<div class="caption"> Celina Torrijos, <a href="http://farandwide.much.com/la-mauricie-camping-trip/" title="Far&Wide" target="_blank">Far&Wide</a> (Texto original: La Mauricie is commonly cited as one of the best places in the country to see stunning foliage, especially in the fall.)</div>
+<div class="caption"> Celina Torrijos, <a href="http://farandwide.much.com/la-mauricie-camping-trip/" title="Far&Wide" target="_blank">Far&Wide</a> (Texto original: La Mauricie is commonly cited as one of the best places in the country to see stunning foliage, especially in the fall.Traducido Eduardo Donoso)</div>
 
 
 Un viaje de una semana a la provincia de Quebec, fue el destino para ocupar nuestro pase a los Parques Nacionales de Canadá. Elegimos el Parque Nacional de La Mauricie por su soledad junto a campings remotos solo accesibles por canoa o kayak ¿Quién no ha soñado con remar al amanecer en un lago?
