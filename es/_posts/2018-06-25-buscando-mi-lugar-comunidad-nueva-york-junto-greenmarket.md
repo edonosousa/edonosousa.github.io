@@ -73,7 +73,7 @@ Pero sin lugar a dudas los protagonistas de que todo esto suceda son los agricul
 
 Mucho he aprendido durante estas dos temporadas en el programa Greenmarket, cada conversación con los granjeros, con la comunidad, con el equipo y con los miembros de los otros programas de GrowNYC (Reciclaje, Jardinería y Educación) han desarrollado en mi un nuevo enfoque con respecto a mi estilo de vida. He decidido incorporar lo que he aprendido en mi rutina diaria y en mi hogar. Construí mi primer huerto en mi patio, agregue nuevas recetas a mi repertorio. Terminé mi primera compostera para crear abono con los restos de frutas y verduras de la casa. Ahora cada vez que viajo a un nuevo lugar, mi viaje no está completo sin por lo menos visitar un mercado agrícola o granja.
 
-Llega el final de la jornada en el mercado agrícola de la calle 175 con al avenida Broadway. Los agricultores cargan sus camiones y esperan mi señal para salir de la plaza. Ya no queda nadie en el lugar. Mañana otra comunidad despertará con los colores y aromas que la comida fresca y local ofrece.
+Llega el final de la jornada en el mercado agrícola de la calle 175 con la avenida Broadway. Los agricultores cargan sus camiones y esperan mi señal para salir de la plaza. Ya no queda nadie en el lugar. Mañana otra comunidad despertará con los colores y aromas que la comida fresca y local ofrece.
 
 <img src="/assets/images/nyc-greenmarket/greenmarket-cover.jpg" alt="Mercado agrícola de la calle 175 con Broadway en Manhattan">
 <div class="caption">Mercado agrícola de la calle 175 con Broadway en Manhattan</div>
