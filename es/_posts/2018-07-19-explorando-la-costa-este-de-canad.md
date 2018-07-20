@@ -6,7 +6,6 @@ published: false
 title: Explorando la costa este de Canadá
 ---
 
-
 Canadá es un país gigante en territorio, con solo mirar un mapa nos damos cuenta que va desde el Polo Norte hasta la frontera con EE.UU. y desde el Océano Atlántico hasta el Océano Pacífico. Mi curiosidad por este país comenzó cuando lo visité por primera vez y creí que con mi inglés podría sobrevivir perfectamente. Estaba totalmente equivocado ya que me encontraba en la provincia de Quebec. Luego abrí un mapa para buscar aventuras y me econtré con muhas rutas, pequeñas ciudades, hitos especiales, rutas de icebergs, ballenas, parques nacionales, rutas de canotaje, en fin tantas cosas que decidí preparar un viaje que me llevará a conocer la costa Este de Canadá (en un próximo viaje vamos por el centro y el oeste de este país).
 
 ![Celebración de los 150 años de Canadá en Quebec año 2017]({{site.baseurl}}//assets/images/1.jpg)
@@ -54,4 +53,3 @@ Destinos a seguir:
 •	New Foudland y Labrador (pronto)
 •	Nova Scotia (pronto)
 •	New Brunswick (pronto)
-
