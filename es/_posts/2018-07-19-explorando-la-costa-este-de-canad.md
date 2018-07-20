@@ -22,21 +22,23 @@ Actualmente y para mi sorpresa Canadá es una monarquía constitucional, donde l
 Entonces ¿Dónde está el famoso Primer Ministro de Canadá Justin Trudeau, en esta línea?  De forma resumida el Primer Ministro se encontraría debajo de la figura del Gobernador General. (Si te interesa este tema visita esta entretenida <a href="https://bdp.parl.ca/About/Parliament/senatoreugeneforsey/inside_view/puzzle-e.html" title="guía en inglés" target="_blank">guía en inglés</a> 
 
 
-Canadá siendo una monarquía constitucional es a la vez una federación. Dijimos que existen 10 provincias en Canadá a lo que hay que agregar que existen 3 territorios también. Las provincias son: Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland y Labrador, Nova Scotia, Ontario, Prince Edward Island, Quebec, y Saskatchewan. Y sus tres territorios son: Northwest Territories, Nunavut, y Yukon.
-mapa
+Canadá siendo una monarquía constitucional es a la vez un gobierno federal. Dijimos que existen 10 provincias en Canadá a lo que hay que agregar 3 territorios también. Las provincias son: Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland y Labrador, Nova Scotia, Ontario, Prince Edward Island, Quebec, y Saskatchewan. Y sus tres territorios son: Northwest Territories, Nunavut, y Yukon.
+
+
 
 El día nacional es el 1 de Julio y como federación cuenta ya con 151 años. Durante el año 2017 se celebraron los 150 años donde una de las principales formas de celebrar fue la entrada gratuita a todos los Parques Nacionales por todo el año.
+
 foto
 
 
-Es interesante saber además los símbolos oficiales con los cuales uno reconoce a este país junto con los no oficiales. ([Más detalles sobre los símbolos](http://publications.gc.ca/collections/collection_2016/pch/S2-211-2002-1-eng.pdf))
+Es interesante saber además los símbolos oficiales con los cuales uno reconoce a este país junto con los no oficiales.<a href="http://publications.gc.ca/collections/collection_2016/pch/S2-211-2002-1-eng.pdf" title="Más detalles sobre los símbolos en inglés" target="_blank">Más detalles sobre los símbolos en inglés</a>
 
-Dentro de los oficiales se encuentran, el árbol de Maple (cuya hoja es la que se encuentra en la bandera), luego el castor y el Hockey sobre hielo. Curiosamente dentro de las cosas no reconocidas oficialmente se encuentran la famosa Real Policía Montada de Canadá que con sus trajes rojos, caballo negros es una de las policías más mundialmente conocidas (Mi padre hace algún tiempo me mencionó un programa de televisión que contaba las aventuras de un policía montada en el Yukon, su nombre era Sargento Preston).
-
+Dentro de los oficiales se encuentran, el árbol de Maple (cuya hoja es la que se encuentra en la bandera), luego el castor y el hockey sobre hielo. Curiosamente dentro de las cosas no reconocidas oficialmente se encuentran la famosa Real Policía Montada de Canadá que con sus trajes rojos, sombreros y caballo negros son una de las policías más mundialmente conocidas (Mi padre hace algún tiempo me mencionó un programa de televisión que contaba las aventuras de un policía montada en el Yukon, su nombre era Sargento Preston).
 
 Conocimos desde la historia, sus provincias, sus símbolos característicos es hora de saber sobre esos lugares que invitan a la aventura. 
 
-El sistema de Parques Nacionales es impresionante, los cuales incluyen, parques marinos y sitios históricos. Debido a que este viaje lo realizare en una primera etapa al este de Canadá voy a hablar sobre los parques ubicados en esa zona, que si lo comparas con los parques al oeste son pequeños en número y algunos son solo accesibles vía avión. Recomiendo considerar dentro de tus gastos en esta aventura el pase anual llamado [Discovery Pass](https://www.pc.gc.ca/en/voyage-travel/admission), el cual te permite visitar los parques y sitios históricos en todo el país. Una de las iniciativas que comenzó Canadá el año 2017 para incentivar el uso de los parques, fue la llamada búsqueda de las sillas rojas, donde sillas rojas fueron posicionadas en lugares estratégicos para que los visitantes las pudieran encontrar y compartir sus fotos. ([Puedes seguir esta iniciativa aquí](https://www.pc.gc.ca/en/voyage-travel/chaises-chairs))
+El sistema de Parques Nacionales es impresionante, los cuales incluyen, parques marinos y sitios históricos. Debido a que este viaje lo realizaré en una primera etapa al este de Canadá voy a hablar sobre los parques ubicados en esa zona, que si los comparas con los parques al oeste son pequeños en número y algunos son solo accesibles vía avión. 
+Recomiendo considerar dentro de tus gastos en esta aventura el pase anual llamado <a href="https://www.pc.gc.ca/en/voyage-travel/admission" title="Discovery Pass" target="_blank">Discovery Pass</a> ,el cual te permite visitar los parques y sitios históricos en todo el país. Una de las iniciativas que comenzó Canadá el año 2017 para incentivar el uso de los parques, fue la llamada búsqueda de las sillas rojas, donde sillas rojas fueron posicionadas en lugares estratégicos para que los visitantes las pudieran encontrar y compartir sus fotos.<a href="https://www.pc.gc.ca/en/voyage-travel/chaises-chairs" title="Puedes seguir esta iniciativa aquí" target="_blank">Puedes seguir esta iniciativa aquí</a>
 
 
 
