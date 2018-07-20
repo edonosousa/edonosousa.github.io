@@ -49,7 +49,8 @@ Para no contar más detalles es hora de preparar el auto, la carpa, mapas, sacos
 
 
 Destinos a seguir:
-•	Quebec
-•	New Foudland y Labrador (pronto)
-•	Nova Scotia (pronto)
-•	New Brunswick (pronto)
+-Quebec
+-New Foudland y Labrador (pronto)
+-Nova Scotia (pronto)
+-New Brunswick (pronto)
+
