@@ -18,3 +18,15 @@
     <i class="fa fa-facebook"></i>
   </a>
 </li>
+<li>
+  {% if page.lang == 'en' %}
+    <a href="/feed.xml" target="_blank" title="Subscribe to RSS" class="social-link">
+      <i class="fa fa-rss"></i>
+    </a>
+  {% endif %}
+  {% if page.lang == 'es' %}
+    <a href="/es/feed.xml" target="_blank" title="Subscribe to RSS" class="social-link">
+      <i class="fa fa-rss"></i>
+    </a>
+  {% endif %}
+</li>

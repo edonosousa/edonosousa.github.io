@@ -1,7 +1,15 @@
 # Site settings
 title: Eduardo Donoso
 email: eduardo@soijen.com
-description: Eduardo Donoso - freelance travel writer
+description:
+  en: Travel writer + outdoor enthusiast
+  es: Escritor de viajes + entusiasta por outdoors
+index:
+  en:
+  es: /es/index.html
+feed:
+  en: /feed.xml
+  es: /es/feed.xml
 lang: ["en", "es"]
 url: "https://edonoso.com"
 author: Eduardo Donoso

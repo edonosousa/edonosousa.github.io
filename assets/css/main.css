@@ -462,7 +462,6 @@ textarea {
 .blog-posts .post-header {
   font-size: 1.5rem;
   margin-bottom: 1.5em;
-  text-transform: capitalize;
 }
 .blog-posts .posts-image {
   background-position: center;
@@ -503,7 +502,6 @@ textarea {
 .post .post-header {
   margin-bottom: 2.5em;
   text-align: center;
-  text-transform: capitalize;
 }
 .post-aside {
   border: 3px dashed #066C6C;
@@ -583,6 +581,15 @@ textarea {
 }
 .tag-cloud {
   margin-bottom: 1em;
+}
+.page > .tag-cloud {
+  border: 3px dashed #066C6C;
+  border-radius: 4px;
+  box-sizing: border-box;
+  padding: 1em;
+  margin-bottom: 5em;
+  max-width: 50vh;
+  text-align: center;
 }
 
 /* MOBILE STYLES */
@@ -707,6 +714,12 @@ textarea {
   .hero-profile .two-col, .hero-interests .two-col {
     align-items: center;
   }
+  .hero-about {
+    background-position: 20% center;
+  }
+  .hero-home {
+    background-position: right 80%;
+  }
 
   /* COLUMN STYLES */
   .two-col .skill-ratings {
@@ -746,52 +759,45 @@ textarea {
     display: none;
   }
 }
-  @media (max-width: 700px)
-   {
-     .hero-about {
-       background-position: 20% center;
-     }
-     .hero-home {
-       background-position: right 80%;
-     }
-     .hero-posts {
-      height: 45vh;
-     }
-   }
-  @media (max-width: 500px) {
-    .star-col {
-      padding-left: 0.5em;
-    }
-    .full-hero, .page {
-        padding: 8vh 5vh;
-    }
-    .full-hero .hero-home {
-      line-height: 2;
-    }
-    .full-hero h1 {
-      font-size: 3em;
-      margin-bottom: 2.8rem;
-      padding-top: 5vh;
-    }
-    .line {
-      visibility: hidden;
-    }
-    .line:after {
-      content: '\A';
-      white-space: pre;
-    }
-    .post .quote {
-      letter-spacing: 0.05em;
-      margin-left: 0;
-      margin-right: 0;
-      padding: 0;
-    }
-    ul {
-      padding: 0;
-    }
+@media (max-width: 700px) {
+  .hero-posts {
+    height: 45vh;
   }
-  @media (max-width: 350px) {
-    .skill-col {
-      width: auto;
-    }
+}
+@media (max-width: 500px) {
+  .star-col {
+    padding-left: 0.5em;
   }
+  .full-hero, .page {
+      padding: 8vh 5vh;
+  }
+  .full-hero .hero-home {
+    line-height: 2;
+  }
+  .full-hero h1 {
+    font-size: 3em;
+    margin-bottom: 2.8rem;
+    padding-top: 5vh;
+  }
+  .line {
+    visibility: hidden;
+  }
+  .line:after {
+    content: '\A';
+    white-space: pre;
+  }
+  .post .quote {
+    letter-spacing: 0.05em;
+    margin-left: 0;
+    margin-right: 0;
+    padding: 0;
+  }
+  ul {
+    padding: 0;
+  }
+}
+@media (max-width: 350px) {
+  .skill-col {
+    width: auto;
+  }
+}
