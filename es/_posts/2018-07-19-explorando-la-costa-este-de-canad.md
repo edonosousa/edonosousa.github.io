@@ -35,10 +35,9 @@ Es interesante saber además los símbolos oficiales con los cuales uno reconoce
 
 Dentro de los oficiales se encuentran, el árbol de Maple (cuya hoja es la que se encuentra en la bandera), luego el castor y el hockey sobre hielo. Curiosamente dentro de las cosas no reconocidas oficialmente se encuentran la famosa Real Policía Montada de Canadá que con sus trajes rojos, sombreros y caballo negros son una de las policías más mundialmente conocidas (Mi padre hace algún tiempo me mencionó un programa de televisión que contaba las aventuras de un policía montada en el Yukon, su nombre era Sargento Preston).
 
-Conocimos desde la historia, sus provincias, sus símbolos característicos es hora de saber sobre esos lugares que invitan a la aventura. 
-
-
 **Parques Nacionales**
+
+Conocimos desde la historia, sus provincias, sus símbolos característicos es hora de saber sobre esos lugares que invitan a la aventura. 
 
 El sistema de Parques Nacionales es impresionante, los cuales incluyen, parques marinos y sitios históricos. Debido a que este viaje lo realizaré en una primera etapa al este de Canadá voy a hablar sobre los parques ubicados en esa zona, que si los comparas con los parques al oeste son pequeños en número y algunos son solo accesibles vía avión. 
 Recomiendo considerar dentro de tus gastos en esta aventura el pase anual llamado <a href="https://www.pc.gc.ca/en/voyage-travel/admission" title="Discovery Pass" target="_blank">Discovery Pass</a> ,el cual te permite visitar los parques y sitios históricos en todo el país. Una de las iniciativas que comenzó Canadá el año 2017 para incentivar el uso de los parques, fue la llamada búsqueda de las sillas rojas, donde sillas rojas fueron posicionadas en lugares estratégicos para que los visitantes las pudieran encontrar y compartir sus fotos.<a href="https://www.pc.gc.ca/en/voyage-travel/chaises-chairs" title="Puedes seguir esta iniciativa aquí" target="_blank">Puedes seguir esta iniciativa aquí</a>
