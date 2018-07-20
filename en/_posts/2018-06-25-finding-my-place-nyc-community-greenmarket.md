@@ -16,9 +16,6 @@ published: true
 date: '2018-07-20 08:55 -0400'
 ---
 Carrots, radishes, and beets are here. Moments later, apples arrive across the square along the pears. Bread and honey take over the center, while the herbs and plants announce their arrival with their characteristic scents. The farmers finish their last details and we are set to start a new day at one of the 50 farmers markets in New York City.
-<img src="/assets/images/nyc-greenmarket/sunrise-market.jpg"
-      alt="Preparing for a new day at the farmers market">
-<div class="caption">Preparing for a new day at the farmers market</div>
 
 A couple of years ago, I was sailing in the Patagonian fjords patrolling the Chilean sea, and now I’m worrying about the late frost that killed blooming fruits upstate.
 
@@ -28,6 +25,10 @@ For 10 years, I worked in the Chilean Navy as part of the Coast Guard. Growing w
 <div class="caption">-Michael Pollan, <a href="http://michaelpollan.com/articles-archive/no-bar-code/" title="No bar code" target="_blank">No bar code</a></div>
 
 On my first day as a volunteer, I got a taste for what it takes to organize a farmers market. I saw many vendors selling all sorts of products; big trucks parked in the open space; and of course all the customers shopping at the market. This market wasn’t any different from what I saw in the ferias of my home country, but within the first few minutes of my training, my Market Manager explained to me the things I didn’t see.
+
+<img src="/assets/images/nyc-greenmarket/sunrise-market.jpg"
+      alt="Preparing for a new day at the farmers market">
+<div class="caption">Preparing for a new day at the farmers market</div>
 
 All the vendors sell only local, seasonal, and fresh products, and they drive in from no more than 3 hours away. “So the apple vendor is a farmer?” I asked her and before I knew it, that same farmer gave me a free class on the life cycle of the apples they picked the day before.
 
