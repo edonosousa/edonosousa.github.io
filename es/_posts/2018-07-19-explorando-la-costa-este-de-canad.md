@@ -43,12 +43,11 @@ Recomiendo considerar dentro de tus gastos en esta aventura el pase anual llamad
 
 Es importante mencionar que algunas provincias, tienen sus propios parques nacionales, como el caso de Quebec, los cuales funcionan con otro tipo de pase y otras reglas, de la misma forma con el caso de los parques provinciales. Los cuales comentaré más adelante.
 
-foto parque en quebec
-
 Para trazar el itinerario a las aventuras dentro de este recorrido por la costa este, existen varias rutas dentro de las provincias que te llevaran a varios pueblos y ciudades donde en cada oportunidad vas a ser sorprendido por la comida, su gente, la naturaleza y su historia. 
 Para no contar más detalles es hora de preparar el auto, la carpa, mapas, sacos de dormir, canoa, documentos y comenzar esta aventura por la costa este. 
 
-foto auto
+![Preparando todo.]({{site.baseurl}}//assets/images/2.jpg)![2.jpg]({{site.baseurl}}/assets/images/2.jpg)
+
 
 Destinos a seguir:
 •	Quebec
