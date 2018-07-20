@@ -24,6 +24,7 @@ Durante 10 años estuve trabajando en la Armada de mi país Chile, en el área d
 <div class="quote">Mientras más conocimiento tenga la gente sobre la manera en que su comida es producida, más probable será que sus valores y no el valor influirán en las decisiones de su compras. (The more knowledge people have about the way their food is produced, the more likely it is that their values–and not just “value”–will inform their purchasing decisions.)</div>
 <div class="caption"> -Michael Pollan, <a href="http://michaelpollan.com/articles-archive/no-bar-code/" title="No Bar Code" target="_blank">No Bar Code</a>
 
+
 Como voluntario tuve mi primera experiencia sobre cómo administrar un Mercado Agrícola. A primera vista ví muchos vendedores con sus productos, camiones grandes estacionados y clientes (caseros). Nada de diferente a lo que ví en las ferias de mi país. Pero con el pasar de los minutos de mi entrenamiento como voluntario, la administradora del mercado me explicó las cosas que no había visto en esta imagen.
 
 <img src="/assets/images/nyc-greenmarket/sunrise-market.jpg"
