@@ -24,8 +24,8 @@ Finalmente llegamos al centro de informaciones de Mont du-Lac des Cygnes, estaba
 
 ¿Por qué insistir con subir una montaña sabiendo que no se va a ver nada desde la cima? Y ¿Por qué las señales del sendero están casi a nivel del suelo? Estábamos a punto de encontrar todas estas respuestas de una manera un poco dura.
 
-<div class="quote">Olvida, crossfit, yoga, soulcycle, soloflex y tus clases de acondicionamiento físico. No existe otra mejor manera de corta duración y que involucre todo tu cuerpo que postholing. [Forget CrossFit. Forget hot yoga, Soulcycle, Soloflex, and your Body Pump class. There is no better short-duration, full-body workout than postholing. Traducido Eduardo Donoso]</div>
-<div class="caption">–Maren Horjus, <a href="https://www.backpacker.com/skills/winter-skills-snowshoeing" target="_blank" title="The Case for Postholing">The Case for Postholing</a>, Backpacker Magazine</div>
+<div class="quote">Olvida, crossfit, yoga, soulcycle, soloflex y tus clases de acondicionamiento físico. No existe otra mejor manera de corta duración y que involucre todo tu cuerpo que postholing.</div>
+<div class="caption"> -Maren Horjus, <a href="https://www.backpacker.com/skills/winter-skills-snowshoeing" title="The Case for Postholing" target="_blank">The Case for Postholing</a>, Backpacker Magazine (Texto original: Forget CrossFit. Forget hot yoga, Soulcycle, Soloflex, and your Body Pump class. There is no better short-duration, full-body workout than postholing. Traducido Eduardo Donoso)</div>
 
 Corriendo en los senderos o en este caso corriendo en la nieve fue mucho más difícil de lo que imaginamos. El sonido pasivo al correr por la nieve cambió a quejas y reclamos cada vez que nuestros pies fueron tragados por la nieve cuando nos desviábamos un poco del pequeño sendero. Nos enterramos con la nieva hasta la cintura en más de 30 oportunidades y no teníamos idea que existe una palabra técnica para esto _postholing_. (Una gran descripción de esta palabra en Inglés <a href="https://www.thoughtco.com/what-is-postholing-1766135" target="_blank">aquí</a>.)
 
