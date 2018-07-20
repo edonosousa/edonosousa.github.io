@@ -5,12 +5,22 @@ date: '2018-07-19 17:15 -0400'
 published: false
 title: Explorando la costa este de Canadá
 ---
-Canadá es un país gigante en territorio y a la vez rico en cultura donde conviven el idioma Inglés, Francés y el de los pueblos indígenas.
 
-Los primeros habitantes de este territorio corresponden a los pueblos indígenas formados por las primeras naciones, Inuit y Métis. Los cuales se distribuyeron a lo largo de este vasto territorio. El primer contacto con Europa se establece alrededor del año 1000 con un pequeño asentamiento vikingo en el norte de NewFoundland. Posteriormenteen el año 1534 se estableció la primera colonia Francesa, en las cercanías de la ciudad de Quebec.
 
-Actualmente y para mi sorpresa Canadá es una monarquía constitucional, donde la Reina Elizabeth II es la Reina de Canadá y su Jefa de Estado. Obviamente no se va a ver a la Reina si estás pensando incluir esto en tu visita, pero ella mantiene en Canadá un Gobernador General y 10 Tenientes Gobernadores en Cada Provincia. 
-Entonces ¿Dónde está el famoso Primer Ministro de Canadá Justin Trudeau, en esta línea?  De forma resumida el Primer Ministro se encontraría debajo de la figura del Gobernador General. (Si te interesa este tema visita esta entretenida [guía en inglés](https://bdp.parl.ca/About/Parliament/senatoreugeneforsey/inside_view/puzzle-e.html)). 
+Canadá es un país gigante en territorio, con solo mirar un mapa nos damos cuenta que va desde el Polo Norte hasta la frontera con EE.UU. y desde el Océano Atlántico hasta el Océano Pacífico. Mi curiosidad por este país comenzó cuando lo visité por primera vez y creí que con mi inglés podría sobrevivir perfectamente. Estaba totalmente equivocado ya que me encontraba en la provincia de Quebec. Luego abrí un mapa para buscar aventuras y me econtré con muhas rutas, pequeñas ciudades, hitos especiales, rutas de icebergs, ballenas, parques nacionales, rutas de canotaje, en fin tantas cosas que decidí preparar un viaje que me llevará a conocer la costa Este de Canadá (en un próximo viaje vamos por el centro y el oeste de este país).
+
+quote
+
+
+¿Porqué se habla Francés? ¿Qué tiene que ver la Reina Isabel II del Reino Unido en Canadá? junto a muchas más preguntas y sus respuesta son las que trataré de resumir en este artículo para luego pasar a a la aventura.
+
+**Historia y estructura (muy resumida)**
+
+Los primeros habitantes de este territorio corresponden a los pueblos indígenas formados por las primeras naciones, Inuit y Métis. Los cuales se distribuyeron a lo largo de este vasto territorio. El primer contacto con Europa se establece alrededor del año 1000 con un pequeño asentamiento vikingo en el norte de NewFoundland (tranquilos lo vamos a visitar). Posteriormenteen el año 1534 se estableció la primera colonia Francesa, en las cercanías de la ciudad de Quebec.
+
+Actualmente y para mi sorpresa Canadá es una monarquía constitucional, donde la Reina Isabel II es la Reina de Canadá y su Jefa de Estado. Obviamente no se va a ver a la Reina si estás pensando incluir esto en tu visita, pero ella mantiene en Canadá un Gobernador General y 10 Tenientes Gobernadores en Cada Provincia. 
+Entonces ¿Dónde está el famoso Primer Ministro de Canadá Justin Trudeau, en esta línea?  De forma resumida el Primer Ministro se encontraría debajo de la figura del Gobernador General. (Si te interesa este tema visita esta entretenida <a href="https://bdp.parl.ca/About/Parliament/senatoreugeneforsey/inside_view/puzzle-e.html" title="guía en inglés" target="_blank">guía en inglés</a> 
+
 
 Canadá siendo una monarquía constitucional es a la vez una federación. Dijimos que existen 10 provincias en Canadá a lo que hay que agregar que existen 3 territorios también. Las provincias son: Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland y Labrador, Nova Scotia, Ontario, Prince Edward Island, Quebec, y Saskatchewan. Y sus tres territorios son: Northwest Territories, Nunavut, y Yukon.
 mapa
@@ -43,5 +53,3 @@ Destinos a seguir:
 •	New Foudland y Labrador (pronto)
 •	Nova Scotia (pronto)
 •	New Brunswick (pronto)
-
-
