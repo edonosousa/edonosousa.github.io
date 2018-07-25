@@ -14,7 +14,7 @@ description: Explorando la costa este de Canadá
 
 
 Canadá es un país gigante en territorio, con solo mirar un mapa nos damos cuenta que va desde el Polo Norte hasta la frontera con EE.UU. y desde el Océano Atlántico hasta el Océano Pacífico. Mi curiosidad por este país comenzó cuando lo visité por primera vez y creí que con mi inglés podría sobrevivir perfectamente. 
-Estaba totalmente equivocado ya que me encontraba en la provincia de Quebec. Luego abrí un mapa para buscar aventuras y me econtré con muhas rutas, pequeñas ciudades, hitos especiales, rutas de icebergs, ballenas, parques nacionales, rutas de canotaje, en fin tantas cosas que decidí preparar un viaje que me llevará a conocer la costa Este de Canadá (en un próximo viaje vamos por el centro y el oeste de este país).
+Estaba totalmente equivocado ya que me encontraba en la provincia de Quebec. Luego abrí un mapa para buscar aventuras y me encontré con muchas rutas, pequeñas y grandes ciudades, hitos especiales, rutas de icebergs, ballenas, parques nacionales, rutas de canotaje, la  en fin tantas cosas que decidí preparar un viaje que me llevará a conocer la costa Este de Canadá (en un próximo viaje vamos por el centro y el oeste de este país).
 
 <div class="quote">Sin duda Canadá tiene algunos de los paisajes naturales más hermosos del mundo. La mayor parte del país no está poblada, lo que significa muchas áreas intáctas de costa a costa.</div>
 <div class="caption"> -Hayley Simpson
@@ -32,7 +32,7 @@ Estaba totalmente equivocado ya que me encontraba en la provincia de Quebec. Lue
 Los primeros habitantes de este territorio corresponden a los pueblos indígenas formados por las primeras naciones, Inuit y Métis. Los cuales se distribuyeron a lo largo de este vasto territorio. El primer contacto con Europa se establece alrededor del año 1000 con un pequeño asentamiento vikingo en el norte de NewFoundland (tranquilos lo vamos a visitar). Posteriormente en el año 1534 se estableció la primera colonia Francesa, en las cercanías de la ciudad de Quebec.
 
 Actualmente y para mi sorpresa Canadá es una monarquía constitucional, donde la Reina Isabel II es la Reina de Canadá y su Jefa de Estado. Obviamente no se va a ver a la Reina si estás pensando incluir esto en tu visita, pero ella mantiene en Canadá un Gobernador General y 10 Tenientes Gobernadores en Cada Provincia.
-Entonces ¿Dónde está el famoso Primer Ministro de Canadá Justin Trudeau, en esta línea?  De forma resumida el Primer Ministro se encontraría debajo de la figura del Gobernador General. (Si te interesa este tema visita esta entretenida <a href="https://bdp.parl.ca/About/Parliament/senatoreugeneforsey/inside_view/puzzle-e.html" title="guía en inglés" target="_blank">guía en inglés</a>
+Entonces ¿Dónde está el famoso Primer Ministro de Canadá Justin Trudeau, en esta línea?  De forma resumida el Primer Ministro se encontraría debajo de la figura del Gobernador General. Si te interesa este tema visita esta entretenida <a href="https://bdp.parl.ca/About/Parliament/senatoreugeneforsey/inside_view/puzzle-e.html" title="guía en inglés." target="_blank">guía en inglés</a>
 
 Canadá siendo una monarquía constitucional es a la vez un gobierno federal. Dijimos que existen 10 provincias en Canadá a lo que hay que agregar 3 territorios también. Las provincias son: Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland y Labrador, Nova Scotia, Ontario, Prince Edward Island, Quebec, y Saskatchewan. Y sus tres territorios son: Northwest Territories, Nunavut, y Yukon.
 
@@ -48,15 +48,21 @@ Dentro de los oficiales se encuentran, el árbol de Maple (cuya hoja es la que s
 Conocimos desde la historia, sus provincias, sus símbolos característicos es hora de saber sobre esos lugares que invitan a la aventura.
 
 El sistema de Parques Nacionales es impresionante, los cuales incluyen, parques marinos y sitios históricos. Debido a que este viaje lo realizaré en una primera etapa al este de Canadá voy a hablar sobre los parques ubicados en esa zona, que si los comparas con los parques al oeste son pequeños en número y algunos son solo accesibles vía avión.
-Recomiendo considerar dentro de tus gastos en esta aventura el pase anual llamado <a href="https://www.pc.gc.ca/en/voyage-travel/admission" title="Discovery Pass" target="_blank">Discovery Pass</a> ,el cual te permite visitar los parques y sitios históricos en todo el país. Una de las iniciativas que comenzó Canadá el año 2017 para incentivar el uso de los parques, fue la llamada búsqueda de las sillas rojas, donde sillas rojas fueron posicionadas en lugares estratégicos para que los visitantes las pudieran encontrar y compartir sus fotos.<a href="https://www.pc.gc.ca/en/voyage-travel/chaises-chairs" title="Puedes seguir esta iniciativa aquí" target="_blank">Puedes seguir esta iniciativa aquí</a>
+Recomiendo considerar dentro de tus gastos en esta aventura el pase anual llamado <a href="https://www.pc.gc.ca/en/voyage-travel/admission" title="Discovery Pass" target="_blank">Discovery Pass</a> ,el cual te permite visitar los parques y sitios históricos en todo el país. Una de las iniciativas que comenzó Canadá el año 2017 para incentivar el uso de los parques, fue la llamada búsqueda de las sillas rojas, donde sillas rojas fueron posicionadas en lugares estratégicos para que los visitantes las pudieran encontrar y compartir sus fotos. <a href="https://www.pc.gc.ca/en/voyage-travel/chaises-chairs" title="Puedes seguir esta iniciativa aquí" target="_blank">Puedes seguir esta iniciativa aquí</a>
 
 <img src="/assets/images/explorando-costa-este-canada/Red_chairs_les_ecoumins.jpg" alt="Sillas rojas Les Escoumins Quebec">
 <div class="caption">Silla rojas en en Centro del Descubrimiento del Medio Ambiente Marítimo, Les Escoumins-Quebec</div>
 
 Es importante mencionar que algunas provincias, tienen sus propios parques nacionales, como el caso de Quebec, los cuales funcionan con otro tipo de pase y otras reglas, de la misma forma con el caso de los parques provinciales. Los cuales comentaré más adelante.
 
-Para trazar el itinerario a las aventuras dentro de este recorrido por la costa este, existen varias rutas dentro de las provincias que te llevaran a varios pueblos y ciudades donde en cada oportunidad vas a ser sorprendido por la comida, su gente, la naturaleza y su historia.
-Para no contar más detalles es hora de preparar el auto, la carpa, mapas, sacos de dormir, canoa, documentos y comenzar esta aventura por la costa este.
+Existen dos principales rutas para la aventura en estas tierras. La primera es la Trans-Canada Highway (La Carretera Transcanadiense) que atravieza las 10 provincias con una extensión total de 7.821 km, totalmente pavimentada y con algunos sectores de cruce en ferry. Es la vía principal para recorrer este país y reconocible con su hoja blanca de árbol de maple en sus señales. 
+La otra ruta se llama The Great Trail (El Gran Sendero) es la más grande ruta recreacional en el mundo, 24.000 km conectando 3 océanos. EN ella se pueden realizar actividades de trekking, canotaje, ciclismo, cross country sky etc. A diferencia de la Trans-Canada Highway esta ruta está presente en las 10 provincias y 3 territorios, volveremos a esta ruta más adelante destacando sus mayores atractivos dentro de las provincias. <a href="https://thegreattrail.ca/" title="Más información en ingles." target="_blank">Más información en ingles</a>
+
+
+
+Sabemos de Parques Nacionales, de rutas nacionales y del gran sendero es hora de trazar el itinerario a las aventuras dentro de este recorrido por la costa este. Nos esperan varios pueblos y ciudades donde en cada oportunidad vamos a ser sorprendido por la comida, su gente, la naturaleza y su historia.
+
+Para no contar más detalles es hora de preparar el auto, la carpa, mapas, sacos de dormir, canoa, documentos y comenzar esta jornada.
 
 <img src="/assets/images/explorando-costa-este-canada/mapas-quebec.jpg" alt="Mapas de Quebec">
 <div class="caption">Preparando todo</div>
