@@ -58,7 +58,8 @@ Es importante mencionar que algunas provincias, tienen sus propios parques nacio
 Existen dos principales rutas para la aventura en estas tierras. La primera es la Trans-Canada Highway (La Carretera Transcanadiense) que atravieza las 10 provincias con una extensión total de 7.821 km, totalmente pavimentada y con algunos sectores de cruce en ferry. Es la vía principal para recorrer este país y reconocible con su hoja blanca de árbol de maple en sus señales. 
 La otra ruta se llama The Great Trail (El Gran Sendero) es la más grande ruta recreacional en el mundo, 24.000 km conectando 3 océanos. EN ella se pueden realizar actividades de trekking, canotaje, ciclismo, cross country sky etc. A diferencia de la Trans-Canada Highway esta ruta está presente en las 10 provincias y 3 territorios, volveremos a esta ruta más adelante destacando sus mayores atractivos dentro de las provincias. <a href="https://thegreattrail.ca/" title="Más información en ingles." target="_blank">Más información en ingles</a>
 
-
+<img src="/assets/images/explorando-costa-este-canada/uthc65k.jpg" alt="Carrera de 65 km Ultra trail Harricana, en la region de La Malbaie en parte del sendero The Great Trail">
+<div class="caption">Carrera de 65 km Ultra trail Harricana, en la region de La Malbaie en parte del sendero The Great Trail</div>
 
 Sabemos de Parques Nacionales, de rutas nacionales y del gran sendero es hora de trazar el itinerario a las aventuras dentro de este recorrido por la costa este. Nos esperan varios pueblos y ciudades donde en cada oportunidad vamos a ser sorprendido por la comida, su gente, la naturaleza y su historia.
 
@@ -68,11 +69,11 @@ Para no contar más detalles es hora de preparar el auto, la carpa, mapas, sacos
 <div class="caption">Preparando todo</div>
 
 Próximos destinos a seguir:
-- Quebec
+- Quebec (pronto)
 - NewFoundland y Labrador (pronto)
 - Nova Scotia (pronto)
 - New Brunswick (pronto)
 
 
-Datos:
--He dejado los nombres de lugares en su original en inglés y en el francés. De modo que cuando busquen por estos, sea más fácil encontrar su ubicación e información
+Recursos utilizados:
+- He dejado los nombres de lugares en su original en inglés y en el francés. De modo que cuando busquen por estos, sea más fácil encontrar su ubicación e información
