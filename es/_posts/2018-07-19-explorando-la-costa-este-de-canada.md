@@ -12,7 +12,9 @@ postHero: /assets/images/explorando-costa-este-canada/canada-150.jpg
 description: Explorando la costa este de Canadá
 ---
 
-Canadá es un país gigante en territorio, con solo mirar un mapa nos damos cuenta que va desde el Polo Norte hasta la frontera con EE.UU. y desde el Océano Atlántico hasta el Océano Pacífico. Mi curiosidad por este país comenzó cuando lo visité por primera vez y creí que con mi inglés podría sobrevivir perfectamente. Estaba totalmente equivocado ya que me encontraba en la provincia de Quebec. Luego abrí un mapa para buscar aventuras y me econtré con muhas rutas, pequeñas ciudades, hitos especiales, rutas de icebergs, ballenas, parques nacionales, rutas de canotaje, en fin tantas cosas que decidí preparar un viaje que me llevará a conocer la costa Este de Canadá (en un próximo viaje vamos por el centro y el oeste de este país).
+
+Canadá es un país gigante en territorio, con solo mirar un mapa nos damos cuenta que va desde el Polo Norte hasta la frontera con EE.UU. y desde el Océano Atlántico hasta el Océano Pacífico. Mi curiosidad por este país comenzó cuando lo visité por primera vez y creí que con mi inglés podría sobrevivir perfectamente. 
+Estaba totalmente equivocado ya que me encontraba en la provincia de Quebec. Luego abrí un mapa para buscar aventuras y me econtré con muhas rutas, pequeñas ciudades, hitos especiales, rutas de icebergs, ballenas, parques nacionales, rutas de canotaje, en fin tantas cosas que decidí preparar un viaje que me llevará a conocer la costa Este de Canadá (en un próximo viaje vamos por el centro y el oeste de este país).
 
 ¿Porqué se habla Francés? ¿Qué tiene que ver la Reina Isabel II del Reino Unido en Canadá? junto a muchas más preguntas y sus respuesta son las que trataré de resumir en este artículo para luego pasar a a la aventura.
 
@@ -42,7 +44,7 @@ Conocimos desde la historia, sus provincias, sus símbolos característicos es h
 El sistema de Parques Nacionales es impresionante, los cuales incluyen, parques marinos y sitios históricos. Debido a que este viaje lo realizaré en una primera etapa al este de Canadá voy a hablar sobre los parques ubicados en esa zona, que si los comparas con los parques al oeste son pequeños en número y algunos son solo accesibles vía avión.
 Recomiendo considerar dentro de tus gastos en esta aventura el pase anual llamado <a href="https://www.pc.gc.ca/en/voyage-travel/admission" title="Discovery Pass" target="_blank">Discovery Pass</a> ,el cual te permite visitar los parques y sitios históricos en todo el país. Una de las iniciativas que comenzó Canadá el año 2017 para incentivar el uso de los parques, fue la llamada búsqueda de las sillas rojas, donde sillas rojas fueron posicionadas en lugares estratégicos para que los visitantes las pudieran encontrar y compartir sus fotos.<a href="https://www.pc.gc.ca/en/voyage-travel/chaises-chairs" title="Puedes seguir esta iniciativa aquí" target="_blank">Puedes seguir esta iniciativa aquí</a>
 
-<img src="/assets/images/explorando-costa-este-canada/3.1.jpg)" alt="Sillas rojas Les Escoumins Quebec">
+<img src="/assets/images/explorando-costa-este-canada/Red_chairs_les_ecoumins.jpg" alt="Sillas rojas Les Escoumins Quebec">
 <div class="caption">Silla rojas en en Centro del Descubrimiento del Medio Ambiente Marítimo, Les Escoumins-Quebec</div>
 
 Es importante mencionar que algunas provincias, tienen sus propios parques nacionales, como el caso de Quebec, los cuales funcionan con otro tipo de pase y otras reglas, de la misma forma con el caso de los parques provinciales. Los cuales comentaré más adelante.
@@ -53,7 +55,7 @@ Para no contar más detalles es hora de preparar el auto, la carpa, mapas, sacos
 <img src="/assets/images/explorando-costa-este-canada/mapas-quebec.jpg" alt="Mapas de Quebec">
 <div class="caption">Preparando todo</div>
 
-Destinos a seguir:
+Próximos destinos a seguir:
 - Quebec
 - NewFoundland y Labrador (pronto)
 - Nova Scotia (pronto)
