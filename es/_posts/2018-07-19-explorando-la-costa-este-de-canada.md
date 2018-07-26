@@ -39,7 +39,7 @@ Canadá siendo una monarquía constitucional es a la vez un gobierno federal. Di
 
 El día nacional es el 1 de Julio y como federación cuenta ya con 151 años. Durante el año 2017 se celebraron los 150 años donde una de las principales formas de celebrar fue la entrada gratuita a todos los Parques Nacionales por todo el año.
 
-Es interesante saber además los símbolos oficiales con los cuales uno reconoce a este país junto con los no oficiales. <a href="http://publications.gc.ca/collections/collection_2016/pch/S2-211-2002-1-eng.pdf" title="Más detalles sobre los símbolos en inglés" target="_blank">Más detalles sobre los símbolos en inglés</a>
+Es interesante saber además los símbolos oficiales con los cuales uno reconoce a este país junto con los no oficiales. <a href="http://publications.gc.ca/collections/collection_2016/pch/S2-211-2002-1-eng.pdf" title="Más detalles sobre los símbolos en inglés." target="_blank">Más detalles sobre los símbolos en inglés.</a>
 
 Dentro de los oficiales se encuentran, el árbol de Maple (cuya hoja es la que se encuentra en la bandera), luego el castor y el hockey sobre hielo. Curiosamente dentro de las cosas no reconocidas oficialmente se encuentran la famosa Real Policía Montada de Canadá que con sus trajes rojos, sombreros y caballo negros son una de las policías más mundialmente conocidas (Mi padre hace algún tiempo me mencionó un programa de televisión que contaba las aventuras de un policía montado en el Yukon, su nombre era Sargento Preston).
 
