@@ -14,7 +14,7 @@ description: Explorando la costa este de Canadá
 
 
 Canadá es un país gigante en territorio, con solo mirar un mapa nos damos cuenta que va desde el Polo Norte hasta la frontera con EE.UU. y desde el Océano Atlántico hasta el Océano Pacífico. Mi curiosidad por este país comenzó cuando lo visité por primera vez y creí que con mi inglés podría sobrevivir perfectamente. 
-Estaba totalmente equivocado ya que me encontraba en la provincia de Quebec. Luego abrí un mapa para buscar aventuras y me encontré con muchas rutas, pequeñas y grandes ciudades, hitos especiales, rutas de icebergs, ballenas, parques nacionales, rutas de canotaje, la  en fin tantas cosas que decidí preparar un viaje que me llevará a conocer la costa Este de Canadá (en un próximo viaje vamos por el centro y el oeste de este país).
+Estaba totalmente equivocado ya que me encontraba en la provincia de Quebec. Luego abrí un mapa para buscar aventuras y me encontré con muchas rutas, pequeñas y grandes ciudades, hitos especiales, rutas de icebergs, ballenas, parques nacionales, rutas de canotaje, en fin tantas cosas que decidí preparar un viaje para a conocer la costa Este de Canadá (en un próximo viaje vamos por el centro y el oeste de este país).
 
 <div class="quote">Sin duda Canadá tiene algunos de los paisajes naturales más hermosos del mundo. La mayor parte del país no está poblada, lo que significa muchas áreas intáctas de costa a costa.</div>
 <div class="caption"> -Hayley Simpson
