@@ -7,9 +7,16 @@ title: Explorando la costa este de Canadá
 posthero: /assets/images/explorando-costa-este-canada/canada-150.jpg
 permalink: /es/explorando-costa-este-canada/
 ref: explorando-costa-este-canada
-descripition: Explorando la costa este de Canadá
+descripition: Viaje y aventuras por las provincias al este de Canadá.
 postHero: /assets/images/explorando-costa-este-canada/canada-150.jpg
-description: Explorando la costa este de Canadá
+description: Viaje y aventuras por las provincias al este de Canadá.
+tags:
+  - travels
+  - canoe
+  - canada
+  - quebec
+  - local
+  - road-trip
 ---
 
 Canadá es un país gigante en territorio, con solo mirar un mapa nos damos cuenta que va desde el polo norte hasta la frontera con EE.UU. y desde el océano Atlántico hasta el océano Pacífico. Mi curiosidad por este país comenzó cuando lo visité por primera vez y creí que con mi inglés podría sobrevivir perfectamente. 
