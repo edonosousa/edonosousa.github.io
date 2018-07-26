@@ -12,8 +12,26 @@ postHero: /assets/images/explorando-costa-este-canada/canada-150.jpg
 description: Explorando la costa este de Canadá
 ---
 
-Canadá es un país gigante en territorio, con solo mirar un mapa nos damos cuenta que va desde el Polo Norte hasta la frontera con EE.UU. y desde el Océano Atlántico hasta el Océano Pacífico. Mi curiosidad por este país comenzó cuando lo visité por primera vez y creí que con mi inglés podría sobrevivir perfectamente. 
+Canadá es un país gigante en territorio, con solo mirar un mapa nos damos cuenta que va desde el polo norte hasta la frontera con EE.UU. y desde el océano Atlántico hasta el océano Pacífico. Mi curiosidad por este país comenzó cuando lo visité por primera vez y creí que con mi inglés podría sobrevivir perfectamente. 
 Estaba totalmente equivocado ya que me encontraba en la provincia de Quebec. Luego abrí un mapa para buscar aventuras y me encontré con muchas rutas, pequeñas y grandes ciudades, hitos especiales, rutas de icebergs, ballenas, parques nacionales, rutas de canotaje, en fin tantas cosas que decidí preparar un viaje para a conocer la costa este de Canadá (en un próximo viaje vamos por el centro y el oeste de este país).
+
+blockquote {<div class="quote">Sin duda Canadá tiene algunos de los paisajes naturales más hermosos del mundo. La mayor parte del país no está poblada, lo que significa muchas áreas intáctas de costa a costa.</div>
+<div class="caption"> -Hayley Simpson
+, <a href="https://theculturetrip.com/north-america/canada/articles/why-everyone-should-visit-canada-at-least-once-in-their-lifetime/" title="Why Everyone Should Visit Canada at Least Once in Their Lifetime" target="_blank">culture trip</a> (Texto original: Canada undoubtedly has some of the most beautiful natural landscapes in the world. Most of the country is uninhabited, which means a lot of rural and untouched areas from coast to coast. Traducido Eduardo Donoso)</div>
+font: 14px normal helvetica, sans-serif;
+margin-top: 10px;
+margin-bottom: 10px;
+margin-left: 50px;
+padding-left: 15px;
+border-left: 3px solid #619644;
+}
+
+
+
+
+
+
+
 
 <div class="quote">Sin duda Canadá tiene algunos de los paisajes naturales más hermosos del mundo. La mayor parte del país no está poblada, lo que significa muchas áreas intáctas de costa a costa.</div>
 <div class="caption"> -Hayley Simpson
