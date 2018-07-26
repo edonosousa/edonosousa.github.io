@@ -12,13 +12,8 @@ postHero: /assets/images/explorando-costa-este-canada/canada-150.jpg
 description: Explorando la costa este de Canadá
 ---
 
-
-
-
-
-
 Canadá es un país gigante en territorio, con solo mirar un mapa nos damos cuenta que va desde el Polo Norte hasta la frontera con EE.UU. y desde el Océano Atlántico hasta el Océano Pacífico. Mi curiosidad por este país comenzó cuando lo visité por primera vez y creí que con mi inglés podría sobrevivir perfectamente. 
-Estaba totalmente equivocado ya que me encontraba en la provincia de Quebec. Luego abrí un mapa para buscar aventuras y me encontré con muchas rutas, pequeñas y grandes ciudades, hitos especiales, rutas de icebergs, ballenas, parques nacionales, rutas de canotaje, en fin tantas cosas que decidí preparar un viaje para a conocer la costa Este de Canadá (en un próximo viaje vamos por el centro y el oeste de este país).
+Estaba totalmente equivocado ya que me encontraba en la provincia de Quebec. Luego abrí un mapa para buscar aventuras y me encontré con muchas rutas, pequeñas y grandes ciudades, hitos especiales, rutas de icebergs, ballenas, parques nacionales, rutas de canotaje, en fin tantas cosas que decidí preparar un viaje para a conocer la costa este de Canadá (en un próximo viaje vamos por el centro y el oeste de este país).
 
 <div class="quote">Sin duda Canadá tiene algunos de los paisajes naturales más hermosos del mundo. La mayor parte del país no está poblada, lo que significa muchas áreas intáctas de costa a costa.</div>
 <div class="caption"> -Hayley Simpson
@@ -33,7 +28,7 @@ Estaba totalmente equivocado ya que me encontraba en la provincia de Quebec. Lue
 
 **Historia y estructura (muy resumida)**
 
-Los primeros habitantes de este territorio corresponden a los pueblos indígenas formados por las primeras naciones, Inuit y Métis. Los cuales se distribuyeron a lo largo de este vasto territorio. El primer contacto con Europa se establece alrededor del año 1000 con un pequeño asentamiento vikingo en el norte de NewFoundland (tranquilos lo vamos a visitar). Posteriormente en el año 1534 se estableció la primera colonia Francesa, en las cercanías de la ciudad de Quebec.
+Los primeros habitantes de este territorio corresponden a los pueblos indígenas formados por las primeras naciones, inuit y métis. Los cuales se distribuyeron a lo largo de este vasto territorio. El primer contacto con Europa se establece alrededor del año 1000 con un pequeño asentamiento vikingo en el norte de NewFoundland (tranquilos lo vamos a visitar). Posteriormente en el año 1534 se estableció la primera colonia Francesa, en las cercanías de la ciudad de Quebec.
 
 Actualmente y para mi sorpresa Canadá es una monarquía constitucional, donde la reina Isabel II es la reina de Canadá y su jefa de estado. Obviamente no se va a ver a la reina si estás pensando incluir esto en tu visita, pero ella mantiene en Canadá un gobernador general y 10 tenientes gobernadores en cada provincia.
 Entonces ¿Dónde está el famoso primer ministro de Canadá Justin Trudeau, en esta línea?  De forma resumida el primer ministro se encontraría debajo de la figura del gobernador general. Si te interesa este tema visita esta entretenida <a href="https://bdp.parl.ca/About/Parliament/senatoreugeneforsey/inside_view/puzzle-e.html" title="guía en inglés." target="_blank">guía en inglés</a>
