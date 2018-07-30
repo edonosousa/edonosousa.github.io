@@ -5,9 +5,11 @@ layout: default
 permalink: /blog/
 ref: blog
 ---
-<div class="page">
+<div class="full-hero hero-email">
   <h1>Blog</h1>
-  <h2>Browse recent posts below or <a href="/tags/" title="browse by topic">browse by tag <i class="fa fa-tag"></i></a>.</h2>
+  <h2>Browse recent posts below or <a href="/tags/" title="browse by tag">browse by tag <i class="fa fa-tag"></i></a></h2>
+</div>
+<div class="page">
   <div class="blog-previews">
     {% assign posts=site.posts | where:"lang", page.lang %}
     {% for post in posts %}

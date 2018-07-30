@@ -5,23 +5,26 @@ layout: default
 permalink: /es/portfolio/
 ref: portfolio
 ---
+<div class="full-hero hero-email">
+  <h1>Mi Portafolio</h1>
+  <h2>Una colección de algunos de mis proyectos favoritos</h2>
+</div>
 <div class="page">
-  <h1>Portafolio</h1>
-    {% assign portfolio=site.portfolio %}
-    {% for portfolio-item in portfolio %}
-    <div class="two-col blog-posts portfolio-item">
-      <div class="small-col left-col portfolio-image">
-        <a href="{{ portfolio-item.external-link }}" title="{{ portfolio-item.title_es }}" target="_blank"><img src="{{ portfolio-item.image }}"></img></a>
-      </div>
-      <div class="large-col right-col">
-        <header class="post-header">
-          <h2><a href="{{ portfolio-item.external-link }}" title="{{ portfolio-item.title_es }}" target="_blank">{{ portfolio-item.title_es }}</a></h2>
-          <div class="post-byline">
-            <span> publicado en {{ portfolio-item.source }} | {% include date.html date=portfolio-item.date %} {{ day }} {{ month }} {{ year }}</span>
-          </div>
-        </header>
-        {{ portfolio-item.description_es }}
-      </div>
+  {% assign portfolio=site.portfolio %}
+  {% for portfolio-item in portfolio %}
+  <div class="two-col blog-posts portfolio-item">
+    <div class="small-col left-col portfolio-image">
+      <a href="{{ portfolio-item.external-link }}" title="{{ portfolio-item.title_es }}" target="_blank"><img src="{{ portfolio-item.image }}"></img></a>
     </div>
-    {% endfor %}
+    <div class="large-col right-col">
+      <header class="post-header">
+        <h2><a href="{{ portfolio-item.external-link }}" title="{{ portfolio-item.title_es }}" target="_blank">{{ portfolio-item.title_es }}</a></h2>
+        <div class="post-byline">
+          <span> publicado en {{ portfolio-item.source }} | {% include date.html date=portfolio-item.date %} {{ day }} {{ month }} {{ year }}</span>
+        </div>
+      </header>
+      {{ portfolio-item.description_es }}
+    </div>
+  </div>
+  {% endfor %}
 </div>

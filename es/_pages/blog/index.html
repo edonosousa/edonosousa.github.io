@@ -5,9 +5,12 @@ layout: default
 permalink: /es/blog/
 ref: blog
 ---
-<div class="page">
+<div class="full-hero hero-email">
   <h1>Blog</h1>
-  <h2>Buscar por publicaciones recientes abajo o <a href="/es/tags/" title="buscar por etiqueta">buscar por etiqueta <i class="fa fa-tag"></i></a>.</h2>
+  <h2>Buscar por publicaciones recientes abajo o <a href="/es/tags/" title="buscar por etiqueta">buscar por etiqueta <i class="fa fa-tag"></i></a></h2>
+</div>
+<div class="page">
+  <div class="blog-previews">
   {% assign posts=site.posts | where:"lang", page.lang %}
   {% for post in posts %}
     <div class="blog-posts">
@@ -25,4 +28,5 @@ ref: blog
       </div>
     </div>
   {% endfor %}
+  </div>
 </div>
