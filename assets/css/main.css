@@ -234,7 +234,7 @@ textarea {
 
 /* MOBILE MENU */
 .mobile-menu-check,
-.show-mobile-menu {
+.show-mobile-menu, .mobile-only a {
   display: none;
 }
 
@@ -594,7 +594,7 @@ textarea {
 
 /* MOBILE STYLES */
 @media (max-width: 1400px) {
-  .full-hero, .page {
+  .full-hero {
     padding: 8vh 20vh 8vh 10vh;
   }
 }
@@ -645,6 +645,9 @@ textarea {
   }
 
   /* MOBILE MENU */
+  .mobile-only a {
+    display: inline-block;
+  }
   .show-mobile-menu {
     display: block;
     float: right;
@@ -705,7 +708,7 @@ textarea {
   }
 
   /* HOME STYLES */
-  .full-hero, .page {
+  .full-hero {
       padding: 8vh 10vh;
   }
   .hero-email h1, .hero-interests h1 {
@@ -768,7 +771,7 @@ textarea {
   .star-col {
     padding-left: 0.5em;
   }
-  .full-hero, .page {
+  .full-hero {
       padding: 8vh 5vh;
   }
   .full-hero .hero-home {
